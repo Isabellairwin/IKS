@@ -1,0 +1,50 @@
+{
+  "random_seed": 42,
+  "model_details": {
+    "model_name": "ai4bharat/indictrans2-indic-en-dist-200M",
+    "version": "latest",
+    "gated": true,
+    "fallback_model": "Helsinki-NLP/opus-mt-ta-en"
+  },
+  "dataset_split": {
+    "train_percentage": 0.8,
+    "validation_percentage": 0.1,
+    "test_percentage": 0.1
+  },
+  "training_hyperparameters": {
+    "epochs": 1,
+    "learning_rate": 5e-5,
+    "batch_size": 4,
+    "gradient_accumulation_steps": 4,
+    "optimizer": "AdamW",
+    "max_sequence_length": 128
+  },
+  "evaluation_metrics": [
+    "BLEU",
+    "chrF++",
+    "COMET (if package available)",
+    "Semantic Similarity (TF-IDF Cosine)",
+    "IKS Preservation Score",
+    "Context Preservation Score"
+  ],
+  "environment": {
+    "python_version": "3.13.2",
+    "os": "Windows",
+    "hardware_detected": {
+      "gpu": "NVIDIA GeForce MX330",
+      "vram": "2.0GB"
+    },
+    "packages": {
+      "pymongo": "latest",
+      "python-dotenv": "latest",
+      "torch": "latest",
+      "transformers": "latest",
+      "pandas": "latest",
+      "openpyxl": "latest",
+      "sacrebleu": "latest",
+      "scikit-learn": "latest",
+      "streamlit": "latest",
+      "nltk": "latest"
+    }
+  }
+}

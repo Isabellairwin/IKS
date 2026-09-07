@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+results/figures/
+data/*.csv
+data/split_metadata.json
+results/per_sample_results.csv
+results/results.csv
+results/comparison.xlsx
+results/error_analysis.csv
+results/dataset_validation_report.json

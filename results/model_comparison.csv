@@ -1,0 +1,4 @@
+Model,BLEU,METEOR,chrF++,ROUGE-L,COMET,Semantic Similarity,IKS Preservation,Context Preservation
+IndicTrans2 Baseline,0.6,2.22,7.83,4.33,Not Available,2.26,0.1,0.19
+Fine-Tuned IndicTrans2,0.6,2.22,7.83,4.33,Not Available,2.26,0.1,0.19
+IKS-Aware Fine-Tuned IndicTrans2,0.54,2.27,8.67,4.25,Not Available,2.33,2.3,1.09

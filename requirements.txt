@@ -1,0 +1,12 @@
+pymongo
+python-dotenv
+torch
+transformers
+sentencepiece
+sacrebleu
+pandas
+openpyxl
+streamlit
+scikit-learn
+nltk
+matplotlib

@@ -1,0 +1,1590 @@
+id,source_language,source_document,source_text,reference_translation,baseline_translation,finetuned_translation,iks_translation,iks_validation_status,iks_validation_confidence,val_translation_quality,val_semantic_consistency,val_iks_preservation,val_context_preservation,val_historical_consistency,val_unsupported_additions,val_missing_meaning
+IKS003440,Tamil,Inna Narpathu,"கேள்வி பெரிய தரும்
+கல்வி தரும் இளமை.",Possessing noble/great listening gives/bestows; this gives/bestows youth through learning.,"[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி பெரிய தரும்
+கல்வி தரும்...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி பெரிய தரும்
+கல்வி தரும்...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி பெரிய தரும்
+கல்வி தரும்...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.45,0.64,0.0,0.14,0.0,1.0,1.0,1.0
+IKS001403,Tamil,Thirukkural,"செல்வம் தீய நாடு வளர்க்கும்
+அருள் உடையார் அன்பு செய்யும்.",Prosperity of the wicked/harmful who have nation nurtures/grows; the possessing grace accomplishes/does love.,"[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் தீய நாடு வளர்க்கும்
+அர...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் தீய நாடு வளர்க்கும்
+அர...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் தீய நாடு வளர்க்கும்
+அர...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003164,Tamil,Pathitrupathu,"தண் கடல் சேர்ப்பன் உள்ளம் தர
+பெரிய நெஞ்சே விளைக்கும் மாலை
+செல்வம் வரும் வழி.","As the lord of the cool shore gives mind, the noble/great heart yields/produces in the evening, waiting for prosperity.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+ப...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+ப...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+ப...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001434,Tamil,Thirukkural,"வாய்மை தீய உள்ளம் தரும்
+இன்பம் சிறிய பொருள் செய்யும்.",Truth of the wicked/harmful who have mind gives/bestows; the base/lowly pleasure accomplishes/does wealth.,"[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை தீய உள்ளம் தரும்
+இன்பம்...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை தீய உள்ளம் தரும்
+இன்பம்...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை தீய உள்ளம் தரும்
+இன்பம்...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001227,Tamil,Thirukkural,"தவம் இல்லார் கல்வி வளர்க்கும்
+மன்னன் உடையார் கேள்வி வளர்க்கும்.",Penance of the lacking who have learning nurtures/grows; the possessing king nurtures/grows listening.,"[Mock Translation (Tamil -> English)]: Translated version of 'தவம் இல்லார் கல்வி வளர்க்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'தவம் இல்லார் கல்வி வளர்க்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'தவம் இல்லார் கல்வி வளர்க்கும்
+...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000699,Tamil,Thirukkural,"அறம் இனிய அன்பு செய்யும்
+நாடு தீய ஈகை விளைக்கும்.",Virtue of the sweet/pleasant who have love accomplishes/does; the wicked/harmful nation yields/produces giving.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறம் இனிய அன்பு செய்யும்
+நாடு ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் இனிய அன்பு செய்யும்
+நாடு ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் இனிய அன்பு செய்யும்
+நாடு ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002952,Tamil,Silappathikaram,"உடையார் யாக்கை தரும் நகரில்
+தீய இன்பம் கெடுக்கும் மாந்தர்.","In the city where possessing body gives/bestows, the wicked/harmful people destroys/ruins pleasure.","[Mock Translation (Tamil -> English)]: Translated version of 'உடையார் யாக்கை தரும் நகரில்
+தீ...'","[Mock Translation (Tamil -> English)]: Translated version of 'உடையார் யாக்கை தரும் நகரில்
+தீ...'","[Mock Translation (Tamil -> English)]: Translated version of 'உடையார் யாக்கை தரும் நகரில்
+தீ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001899,Tamil,Naladiyar,"அறம் சிறிய காக்கும்
+நாடு விளைக்கும் மன்னன்.",Possessing base/lowly virtue protects/guards; this yields/produces king through nation.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறம் சிறிய காக்கும்
+நாடு விளைக...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் சிறிய காக்கும்
+நாடு விளைக...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் சிறிய காக்கும்
+நாடு விளைக...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002231,Tamil,Purananuru,"வேல் கொண்டு வென்றான் அறிவு
+கொடை தரும் இல்லார் கேள்வி
+மன்னன் புகழ் விளைக்கும் உலகு.","Winning with the spear, wisdom is established; the lacking listening gives charity, and the king's glory yields/produces the world.","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் அறிவு
+கொ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் அறிவு
+கொ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் அறிவு
+கொ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000932,Tamil,Thirukkural,"யாக்கை இல்லார் ஈகை தரும்
+அறம் சிறிய கேள்வி கெடுக்கும்.",Body of the lacking who have giving gives/bestows; the base/lowly virtue destroys/ruins listening.,"[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை இல்லார் ஈகை தரும்
+அறம் ...'","[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை இல்லார் ஈகை தரும்
+அறம் ...'","[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை இல்லார் ஈகை தரும்
+அறம் ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003083,Tamil,Tolkappiyam,"இன்பம் சிறந்த சேர்க்கும்
+இன்பம் வளர்க்கும்.",The rule of pleasure which is excellent gathers/unites; this leads to pleasure which nurtures/grows.,"[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் சிறந்த சேர்க்கும்
+இன்பம...'","[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் சிறந்த சேர்க்கும்
+இன்பம...'","[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் சிறந்த சேர்க்கும்
+இன்பம...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.44,0.63,0.0,0.15,0.0,1.0,0.87,1.0
+IKS002051,Tamil,Pazhamozhi Naanooru,"செல்வம் சிறந்த வளர்க்கும்
+ஈகை செய்யும் நட்பு.",Possessing excellent prosperity nurtures/grows; this accomplishes/does friendship through giving.,"[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் சிறந்த வளர்க்கும்
+ஈகை ...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் சிறந்த வளர்க்கும்
+ஈகை ...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் சிறந்த வளர்க்கும்
+ஈகை ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002169,Tamil,Pazhamozhi Naanooru,"அறம் உடையார் ஒழிக்கும்
+ஒழுக்கம் உய்க்கும் யாக்கை.",Possessing possessing virtue removes/dispels; this guides/elevates body through conduct.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறம் உடையார் ஒழிக்கும்
+ஒழுக்கம...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் உடையார் ஒழிக்கும்
+ஒழுக்கம...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் உடையார் ஒழிக்கும்
+ஒழுக்கம...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000174,Tamil,Naladiyar,"இல்லா ஒருவன் இடும்பைப் படுதலின்
+னல்லா ஒருவன் கடன்.",The duty of a good person is not to cause suffering to one who has nothing.,[Mock Translation (Tamil -> English)]: Translated version of 'இல்லா ஒருவன் இடும்பைப் படுதலின...',[Mock Translation (Tamil -> English)]: Translated version of 'இல்லா ஒருவன் இடும்பைப் படுதலின...',"[Mock Translation (Tamil -> English)]: Translated version of 'இல்லா ஒருவன் இடும்பைப் படுதலின...' (Contextual meaning: Ethical restraint, personal integrity, and moral discipline.)",REVIEW,0.47,0.62,0.0,0.33,0.33,0.5,1.0,1.0
+IKS001796,Tamil,Naladiyar,"கேள்வி நில்லாத செய்யும்
+மானம் கெடுக்கும் நாடு.",Possessing transitory/impermanence listening accomplishes/does; this destroys/ruins nation through honour.,"[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி நில்லாத செய்யும்
+மானம் ...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி நில்லாத செய்யும்
+மானம் ...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி நில்லாத செய்யும்
+மானம் ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000551,Tamil,Thirukkural,"செல்வம் இனிய யாக்கை உய்க்கும்
+அருள் நில்லாத பொருள் உய்க்கும்.",Prosperity of the sweet/pleasant who have body guides/elevates; the transitory/impermanence grace guides/elevates wealth.,"[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய யாக்கை உய்க்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய யாக்கை உய்க்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய யாக்கை உய்க்கும்
+...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002404,Tamil,Akananuru,"தண் கடல் சேர்ப்பன் நாடு தர
+சிறிய நெஞ்சே சேர்க்கும் மாலை
+உள்ளம் வரும் வழி.","As the lord of the cool shore gives nation, the base/lowly heart gathers/unites in the evening, waiting for mind.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நாடு தர
+சிற...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நாடு தர
+சிற...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நாடு தர
+சிற...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002150,Tamil,Pazhamozhi Naanooru,"செல்வம் நில்லாத வளர்க்கும்
+நட்பு காக்கும் தவம்.",Possessing transitory/impermanence prosperity nurtures/grows; this protects/guards penance through friendship.,"[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் நில்லாத வளர்க்கும்
+நட்...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் நில்லாத வளர்க்கும்
+நட்...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் நில்லாத வளர்க்கும்
+நட்...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001409,Tamil,Thirukkural,"நாடு சிறந்த நட்பு நிற்கும்
+அறம் சிறிய அறிவு காக்கும்.",Nation of the excellent who have friendship stands/endures; the base/lowly virtue protects/guards wisdom.,"[Mock Translation (Tamil -> English)]: Translated version of 'நாடு சிறந்த நட்பு நிற்கும்
+அறம...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு சிறந்த நட்பு நிற்கும்
+அறம...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு சிறந்த நட்பு நிற்கும்
+அறம...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001998,Tamil,Pazhamozhi Naanooru,"கேள்வி பெரிய செய்யும்
+மன்னன் வளர்க்கும் இளமை.",Possessing noble/great listening accomplishes/does; this nurtures/grows youth through king.,"[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி பெரிய செய்யும்
+மன்னன் வ...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி பெரிய செய்யும்
+மன்னன் வ...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி பெரிய செய்யும்
+மன்னன் வ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002909,Tamil,Silappathikaram,"இனிய கல்வி செய்யும் நகரில்
+சிறிய கேள்வி வளர்க்கும் மாந்தர்.","In the city where sweet/pleasant learning accomplishes/does, the base/lowly people nurtures/grows listening.","[Mock Translation (Tamil -> English)]: Translated version of 'இனிய கல்வி செய்யும் நகரில்
+சிற...'","[Mock Translation (Tamil -> English)]: Translated version of 'இனிய கல்வி செய்யும் நகரில்
+சிற...'","[Mock Translation (Tamil -> English)]: Translated version of 'இனிய கல்வி செய்யும் நகரில்
+சிற...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001550,Tamil,Thirukkural,"வாய்மை சிறந்த நாடு காக்கும்
+உள்ளம் இனிய கேள்வி சேர்க்கும்.",Truth of the excellent who have nation protects/guards; the sweet/pleasant mind gathers/unites listening.,"[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை சிறந்த நாடு காக்கும்
+உள...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை சிறந்த நாடு காக்கும்
+உள...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை சிறந்த நாடு காக்கும்
+உள...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002815,Tamil,Ainkurunuru,"தண் கடல் சேர்ப்பன் அறிவு தர
+சிறிய நெஞ்சே உய்க்கும் மாலை
+பொருள் வரும் வழி.","As the lord of the cool shore gives wisdom, the base/lowly heart guides/elevates in the evening, waiting for wealth.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அறிவு தர
+சி...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அறிவு தர
+சி...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அறிவு தர
+சி...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000220,Tamil,Thirukkural,"காலத்தி னாற்செய்த நன்றி சிறிதெனினும்
+ஞாலத்தின் மாணப் பெரிது.",A small favour done at the right time is far greater in worth than the earth itself.,[Mock Translation (Tamil -> English)]: Translated version of 'காலத்தி னாற்செய்த நன்றி சிறிதெ...',[Mock Translation (Tamil -> English)]: Translated version of 'காலத்தி னாற்செய்த நன்றி சிறிதெ...',[Mock Translation (Tamil -> English)]: Translated version of 'காலத்தி னாற்செய்த நன்றி சிறிதெ...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003103,Tamil,Tolkappiyam,"அன்பு இல்லார் கெடுக்கும்
+ஒழுக்கம் கெடுக்கும்.",The rule of love which is lacking destroys/ruins; this leads to conduct which destroys/ruins.,"[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு இல்லார் கெடுக்கும்
+ஒழுக்...'","[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு இல்லார் கெடுக்கும்
+ஒழுக்...'","[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு இல்லார் கெடுக்கும்
+ஒழுக்...' (Contextual meaning: Affection, pure love, and emotional attachment.)",REVIEW,0.43,0.59,0.0,0.14,0.0,1.0,0.87,1.0
+IKS001565,Tamil,Naladiyar,"வினை சிறந்த ஒழிக்கும்
+ஈகை விளைக்கும் நாடு.",Possessing excellent action removes/dispels; this yields/produces nation through giving.,"[Mock Translation (Tamil -> English)]: Translated version of 'வினை சிறந்த ஒழிக்கும்
+ஈகை விளை...'","[Mock Translation (Tamil -> English)]: Translated version of 'வினை சிறந்த ஒழிக்கும்
+ஈகை விளை...'","[Mock Translation (Tamil -> English)]: Translated version of 'வினை சிறந்த ஒழிக்கும்
+ஈகை விளை...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.47,0.64,0.0,0.25,0.0,1.0,1.0,1.0
+IKS000360,Tamil,Tolkappiyam,"உயிர் ஒற்றினோடு ஒக்கும் உயிர்
+மெய் ஒற்றினோடும் ஒக்கும்.",A vowel matches with a vowel; a consonant also matches with a consonant.,"[Mock Translation (Tamil -> English)]: Translated version of 'உயிர் ஒற்றினோடு ஒக்கும் உயிர்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'உயிர் ஒற்றினோடு ஒக்கும் உயிர்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'உயிர் ஒற்றினோடு ஒக்கும் உயிர்
+...' (Contextual meaning: Moral virtue and righteousness)",REVIEW,0.46,0.56,0.0,0.0,0.33,1.0,1.0,1.0
+IKS000091,Tamil,Tolkappiyam,"திணை மலர்ந்த தண்டமிழ் இயல்பின்
+வேனில் தண்ணிழல் போல மென்மையின் ஓங்கி.","Growing gently like the cool shade of a tree in summer, the Tamil grammar of tinai flourishes with the nature of cool Tamil.",[Mock Translation (Tamil -> English)]: Translated version of 'திணை மலர்ந்த தண்டமிழ் இயல்பின்...',[Mock Translation (Tamil -> English)]: Translated version of 'திணை மலர்ந்த தண்டமிழ் இயல்பின்...',[Mock Translation (Tamil -> English)]: Translated version of 'திணை மலர்ந்த தண்டமிழ் இயல்பின்...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001061,Tamil,Thirukkural,"தவம் பெரிய பொருள் விளைக்கும்
+செல்வம் சிறந்த கல்வி தரும்.",Penance of the noble/great who have wealth yields/produces; the excellent prosperity gives/bestows learning.,"[Mock Translation (Tamil -> English)]: Translated version of 'தவம் பெரிய பொருள் விளைக்கும்
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தவம் பெரிய பொருள் விளைக்கும்
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தவம் பெரிய பொருள் விளைக்கும்
+ச...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001018,Tamil,Thirukkural,"கல்வி இல்லார் ஈகை தரும்
+அன்பு சிறந்த உள்ளம் ஒழிக்கும்.",Learning of the lacking who have giving gives/bestows; the excellent love removes/dispels mind.,"[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி இல்லார் ஈகை தரும்
+அன்பு ...'","[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி இல்லார் ஈகை தரும்
+அன்பு ...'","[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி இல்லார் ஈகை தரும்
+அன்பு ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002010,Tamil,Pazhamozhi Naanooru,"மானம் இல்லார் சேர்க்கும்
+அறிவு விளைக்கும் யாக்கை.",Possessing lacking honour gathers/unites; this yields/produces body through wisdom.,"[Mock Translation (Tamil -> English)]: Translated version of 'மானம் இல்லார் சேர்க்கும்
+அறிவு...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் இல்லார் சேர்க்கும்
+அறிவு...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் இல்லார் சேர்க்கும்
+அறிவு...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000601,Tamil,Thirukkural,"இன்பம் சிறிய அருள் தரும்
+இளமை நில்லாத செல்வம் வளர்க்கும்.",Pleasure of the base/lowly who have grace gives/bestows; the transitory/impermanence youth nurtures/grows prosperity.,"[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் சிறிய அருள் தரும்
+இளமை ...'","[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் சிறிய அருள் தரும்
+இளமை ...'","[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் சிறிய அருள் தரும்
+இளமை ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001233,Tamil,Thirukkural,"நாடு இனிய செல்வம் ஒழிக்கும்
+அறிவு உடையார் செல்வம் சேர்க்கும்.",Nation of the sweet/pleasant who have prosperity removes/dispels; the possessing wisdom gathers/unites prosperity.,"[Mock Translation (Tamil -> English)]: Translated version of 'நாடு இனிய செல்வம் ஒழிக்கும்
+அற...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு இனிய செல்வம் ஒழிக்கும்
+அற...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு இனிய செல்வம் ஒழிக்கும்
+அற...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001649,Tamil,Naladiyar,"அன்பு சிறந்த செய்யும்
+கேள்வி உய்க்கும் அறிவு.",Possessing excellent love accomplishes/does; this guides/elevates wisdom through listening.,"[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு சிறந்த செய்யும்
+கேள்வி உ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு சிறந்த செய்யும்
+கேள்வி உ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு சிறந்த செய்யும்
+கேள்வி உ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003261,Tamil,Kalithogai,"தண் கடல் சேர்ப்பன் வினை தர
+தீய நெஞ்சே கெடுக்கும் மாலை
+பொருள் வரும் வழி.","As the lord of the cool shore gives action, the wicked/harmful heart destroys/ruins in the evening, waiting for wealth.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வினை தர
+தீய...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வினை தர
+தீய...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வினை தர
+தீய...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002792,Tamil,Ainkurunuru,"தண் கடல் சேர்ப்பன் யாக்கை தர
+சிறந்த நெஞ்சே செய்யும் மாலை
+கல்வி வரும் வழி.","As the lord of the cool shore gives body, the excellent heart accomplishes/does in the evening, waiting for learning.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் யாக்கை தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் யாக்கை தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் யாக்கை தர
+ச...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000245,Tamil,Thirukkural,"தக்க தவம் செய்வார்க்கு இல்லை தகவிலர்
+ஒக்கல் ஒடுங்கல் உரிமை.","For those doing the right penance, there is no room for those without worth; equality and restraint are their right.",[Mock Translation (Tamil -> English)]: Translated version of 'தக்க தவம் செய்வார்க்கு இல்லை த...',[Mock Translation (Tamil -> English)]: Translated version of 'தக்க தவம் செய்வார்க்கு இல்லை த...',[Mock Translation (Tamil -> English)]: Translated version of 'தக்க தவம் செய்வார்க்கு இல்லை த...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001147,Tamil,Thirukkural,"நட்பு பெரிய இன்பம் கெடுக்கும்
+பொருள் சிறிய கேள்வி செய்யும்.",Friendship of the noble/great who have pleasure destroys/ruins; the base/lowly wealth accomplishes/does listening.,"[Mock Translation (Tamil -> English)]: Translated version of 'நட்பு பெரிய இன்பம் கெடுக்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'நட்பு பெரிய இன்பம் கெடுக்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'நட்பு பெரிய இன்பம் கெடுக்கும்
+...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002588,Tamil,Kurunthogai,"தண் கடல் சேர்ப்பன் மானம் தர
+உடையார் நெஞ்சே உய்க்கும் மாலை
+அறம் வரும் வழி.","As the lord of the cool shore gives honour, the possessing heart guides/elevates in the evening, waiting for virtue.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மானம் தர
+உட...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மானம் தர
+உட...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மானம் தர
+உட...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002287,Tamil,Purananuru,"வேல் கொண்டு வென்றான் அறிவு
+கொடை தரும் இல்லார் இன்பம்
+மன்னன் புகழ் செய்யும் உலகு.","Winning with the spear, wisdom is established; the lacking pleasure gives charity, and the king's glory accomplishes/does the world.","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் அறிவு
+கொ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் அறிவு
+கொ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் அறிவு
+கொ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002514,Tamil,Akananuru,"தண் கடல் சேர்ப்பன் வினை தர
+உடையார் நெஞ்சே நிற்கும் மாலை
+மானம் வரும் வழி.","As the lord of the cool shore gives action, the possessing heart stands/endures in the evening, waiting for honour.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வினை தர
+உடை...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வினை தர
+உடை...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வினை தர
+உடை...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003185,Tamil,Paripadal,"தண் கடல் சேர்ப்பன் கேள்வி தர
+சிறந்த நெஞ்சே விளைக்கும் மாலை
+அறிவு வரும் வழி.","As the lord of the cool shore gives listening, the excellent heart yields/produces in the evening, waiting for wisdom.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கேள்வி தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கேள்வி தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கேள்வி தர
+ச...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002703,Tamil,Natrinai,"தண் கடல் சேர்ப்பன் நட்பு தர
+நில்லாத நெஞ்சே சேர்க்கும் மாலை
+தவம் வரும் வழி.","As the lord of the cool shore gives friendship, the transitory/impermanence heart gathers/unites in the evening, waiting for penance.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நட்பு தர
+நி...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நட்பு தர
+நி...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நட்பு தர
+நி...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003412,Tamil,Sirupanchamulam,"பொருள் நில்லாத செய்யும்
+அறம் தரும் வாய்மை.",Possessing transitory/impermanence wealth accomplishes/does; this gives/bestows truth through virtue.,"[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் நில்லாத செய்யும்
+அறம் த...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் நில்லாத செய்யும்
+அறம் த...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் நில்லாத செய்யும்
+அறம் த...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003355,Tamil,Elathi,"அன்பு தீய காக்கும்
+யாக்கை நிற்கும் அருள்.",Possessing wicked/harmful love protects/guards; this stands/endures grace through body.,"[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு தீய காக்கும்
+யாக்கை நிற்...'","[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு தீய காக்கும்
+யாக்கை நிற்...'","[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு தீய காக்கும்
+யாக்கை நிற்...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000308,Tamil,Thirukkural,"ஒல்வ தறிவான் வினை செய்வான் வல்லவன்
+வல்லவர்க்கு எல்லாம் நலன்.",One who knows what is possible and does it is capable; the capable serve the good of all who are capable.,[Mock Translation (Tamil -> English)]: Translated version of 'ஒல்வ தறிவான் வினை செய்வான் வல்...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒல்வ தறிவான் வினை செய்வான் வல்...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒல்வ தறிவான் வினை செய்வான் வல்...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001509,Tamil,Thirukkural,"அறிவு நில்லாத கேள்வி கெடுக்கும்
+அறிவு தீய ஈகை நிற்கும்.",Wisdom of the transitory/impermanence who have listening destroys/ruins; the wicked/harmful wisdom stands/endures giving.,[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு நில்லாத கேள்வி கெடுக்கும...',[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு நில்லாத கேள்வி கெடுக்கும...',[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு நில்லாத கேள்வி கெடுக்கும...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001436,Tamil,Thirukkural,"வாய்மை சிறந்த இன்பம் உய்க்கும்
+தவம் பெரிய செல்வம் ஒழிக்கும்.",Truth of the excellent who have pleasure guides/elevates; the noble/great penance removes/dispels prosperity.,[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை சிறந்த இன்பம் உய்க்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை சிறந்த இன்பம் உய்க்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை சிறந்த இன்பம் உய்க்கும்...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002625,Tamil,Kurunthogai,"தண் கடல் சேர்ப்பன் இளமை தர
+பெரிய நெஞ்சே செய்யும் மாலை
+ஒழுக்கம் வரும் வழி.","As the lord of the cool shore gives youth, the noble/great heart accomplishes/does in the evening, waiting for conduct.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் இளமை தர
+பெர...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் இளமை தர
+பெர...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் இளமை தர
+பெர...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003084,Tamil,Tolkappiyam,"வாய்மை தீய தரும்
+கல்வி வளர்க்கும்.",The rule of truth which is wicked/harmful gives/bestows; this leads to learning which nurtures/grows.,"[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை தீய தரும்
+கல்வி வளர்க்க...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை தீய தரும்
+கல்வி வளர்க்க...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை தீய தரும்
+கல்வி வளர்க்க...' (Contextual meaning: Ethical restraint, personal integrity, and moral discipline.)",REVIEW,0.53,0.64,0.0,0.5,0.67,0.5,0.73,1.0
+IKS001430,Tamil,Thirukkural,"ஈகை சிறந்த வாய்மை நிற்கும்
+அன்பு தீய கேள்வி விளைக்கும்.",Giving of the excellent who have truth stands/endures; the wicked/harmful love yields/produces listening.,"[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை சிறந்த வாய்மை நிற்கும்
+அன்...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை சிறந்த வாய்மை நிற்கும்
+அன்...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை சிறந்த வாய்மை நிற்கும்
+அன்...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002198,Tamil,Pazhamozhi Naanooru,"கேள்வி சிறந்த விளைக்கும்
+மன்னன் சேர்க்கும் மன்னன்.",Possessing excellent listening yields/produces; this gathers/unites king through king.,"[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறந்த விளைக்கும்
+மன்னன...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறந்த விளைக்கும்
+மன்னன...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறந்த விளைக்கும்
+மன்னன...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.46,0.63,0.0,0.25,0.0,1.0,1.0,1.0
+IKS001133,Tamil,Thirukkural,"செல்வம் இனிய கல்வி சேர்க்கும்
+நாடு நில்லாத அன்பு செய்யும்.",Prosperity of the sweet/pleasant who have learning gathers/unites; the transitory/impermanence nation accomplishes/does love.,"[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய கல்வி சேர்க்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய கல்வி சேர்க்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய கல்வி சேர்க்கும்
+...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003065,Tamil,Tolkappiyam,"மானம் உடையார் கெடுக்கும்
+பொருள் காக்கும்.",The rule of honour which is possessing destroys/ruins; this leads to wealth which protects/guards.,"[Mock Translation (Tamil -> English)]: Translated version of 'மானம் உடையார் கெடுக்கும்
+பொருள...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் உடையார் கெடுக்கும்
+பொருள...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் உடையார் கெடுக்கும்
+பொருள...' (Contextual meaning: Ethical restraint, personal integrity, and moral discipline.)",REVIEW,0.52,0.62,0.0,0.4,0.67,0.5,0.87,1.0
+IKS003006,Tamil,Manimekalai,"இல்லார் மானம் உய்க்கும் நகரில்
+உடையார் அன்பு நிற்கும் மாந்தர்.","In the city where lacking honour guides/elevates, the possessing people stands/endures love.",[Mock Translation (Tamil -> English)]: Translated version of 'இல்லார் மானம் உய்க்கும் நகரில்...',[Mock Translation (Tamil -> English)]: Translated version of 'இல்லார் மானம் உய்க்கும் நகரில்...',[Mock Translation (Tamil -> English)]: Translated version of 'இல்லார் மானம் உய்க்கும் நகரில்...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001919,Tamil,Naladiyar,"மன்னன் சிறிய வளர்க்கும்
+ஈகை தரும் நாடு.",Possessing base/lowly king nurtures/grows; this gives/bestows nation through giving.,"[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் சிறிய வளர்க்கும்
+ஈகை தர...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் சிறிய வளர்க்கும்
+ஈகை தர...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் சிறிய வளர்க்கும்
+ஈகை தர...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000469,Tamil,Thirukkural,"கரந்து உண்பான் ஆக்கம் பெறல் ஆகா
+வரந்து உண்பான் வாழ்வினும் இல்லை.",The wealth of one who eats in hiding cannot be gained; no life is worse than the one who eats in public shame.,[Mock Translation (Tamil -> English)]: Translated version of 'கரந்து உண்பான் ஆக்கம் பெறல் ஆக...',[Mock Translation (Tamil -> English)]: Translated version of 'கரந்து உண்பான் ஆக்கம் பெறல் ஆக...',[Mock Translation (Tamil -> English)]: Translated version of 'கரந்து உண்பான் ஆக்கம் பெறல் ஆக...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001716,Tamil,Naladiyar,"இளமை நில்லாத காக்கும்
+அருள் நிற்கும் கல்வி.",Possessing transitory/impermanence youth protects/guards; this stands/endures learning through grace.,"[Mock Translation (Tamil -> English)]: Translated version of 'இளமை நில்லாத காக்கும்
+அருள் நி...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை நில்லாத காக்கும்
+அருள் நி...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை நில்லாத காக்கும்
+அருள் நி...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000982,Tamil,Thirukkural,"அன்பு உடையார் இன்பம் ஒழிக்கும்
+அறிவு நில்லாத செல்வம் செய்யும்.",Love of the possessing who have pleasure removes/dispels; the transitory/impermanence wisdom accomplishes/does prosperity.,[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு உடையார் இன்பம் ஒழிக்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு உடையார் இன்பம் ஒழிக்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு உடையார் இன்பம் ஒழிக்கும்...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002786,Tamil,Ainkurunuru,"தண் கடல் சேர்ப்பன் வாய்மை தர
+தீய நெஞ்சே தரும் மாலை
+ஒழுக்கம் வரும் வழி.","As the lord of the cool shore gives truth, the wicked/harmful heart gives/bestows in the evening, waiting for conduct.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வாய்மை தர
+த...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வாய்மை தர
+த...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வாய்மை தர
+த...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002948,Tamil,Silappathikaram,"பெரிய தவம் ஒழிக்கும் நகரில்
+உடையார் நாடு தரும் மாந்தர்.","In the city where noble/great penance removes/dispels, the possessing people gives/bestows nation.","[Mock Translation (Tamil -> English)]: Translated version of 'பெரிய தவம் ஒழிக்கும் நகரில்
+உட...'","[Mock Translation (Tamil -> English)]: Translated version of 'பெரிய தவம் ஒழிக்கும் நகரில்
+உட...'","[Mock Translation (Tamil -> English)]: Translated version of 'பெரிய தவம் ஒழிக்கும் நகரில்
+உட...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001959,Tamil,Pazhamozhi Naanooru,"நட்பு தீய காக்கும்
+யாக்கை காக்கும் பொருள்.",Possessing wicked/harmful friendship protects/guards; this protects/guards wealth through body.,"[Mock Translation (Tamil -> English)]: Translated version of 'நட்பு தீய காக்கும்
+யாக்கை காக்...'","[Mock Translation (Tamil -> English)]: Translated version of 'நட்பு தீய காக்கும்
+யாக்கை காக்...'","[Mock Translation (Tamil -> English)]: Translated version of 'நட்பு தீய காக்கும்
+யாக்கை காக்...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.48,0.64,0.0,0.33,0.0,1.0,1.0,1.0
+IKS002117,Tamil,Pazhamozhi Naanooru,"பொருள் நில்லாத நிற்கும்
+ஈகை கெடுக்கும் இன்பம்.",Possessing transitory/impermanence wealth stands/endures; this destroys/ruins pleasure through giving.,"[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் நில்லாத நிற்கும்
+ஈகை கெ...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் நில்லாத நிற்கும்
+ஈகை கெ...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் நில்லாத நிற்கும்
+ஈகை கெ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001427,Tamil,Thirukkural,"வினை சிறிய நட்பு வளர்க்கும்
+இன்பம் நில்லாத மானம் ஒழிக்கும்.",Action of the base/lowly who have friendship nurtures/grows; the transitory/impermanence pleasure removes/dispels honour.,"[Mock Translation (Tamil -> English)]: Translated version of 'வினை சிறிய நட்பு வளர்க்கும்
+இன...'","[Mock Translation (Tamil -> English)]: Translated version of 'வினை சிறிய நட்பு வளர்க்கும்
+இன...'","[Mock Translation (Tamil -> English)]: Translated version of 'வினை சிறிய நட்பு வளர்க்கும்
+இன...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003217,Tamil,Paripadal,"தண் கடல் சேர்ப்பன் வாய்மை தர
+பெரிய நெஞ்சே சேர்க்கும் மாலை
+பொருள் வரும் வழி.","As the lord of the cool shore gives truth, the noble/great heart gathers/unites in the evening, waiting for wealth.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வாய்மை தர
+ப...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வாய்மை தர
+ப...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வாய்மை தர
+ப...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002932,Tamil,Silappathikaram,"உடையார் இன்பம் கெடுக்கும் நகரில்
+இனிய பொருள் தரும் மாந்தர்.","In the city where possessing pleasure destroys/ruins, the sweet/pleasant people gives/bestows wealth.",[Mock Translation (Tamil -> English)]: Translated version of 'உடையார் இன்பம் கெடுக்கும் நகரி...',[Mock Translation (Tamil -> English)]: Translated version of 'உடையார் இன்பம் கெடுக்கும் நகரி...',[Mock Translation (Tamil -> English)]: Translated version of 'உடையார் இன்பம் கெடுக்கும் நகரி...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002233,Tamil,Purananuru,"வேல் கொண்டு வென்றான் ஈகை
+கொடை தரும் பெரிய வாய்மை
+மன்னன் புகழ் ஒழிக்கும் உலகு.","Winning with the spear, giving is established; the noble/great truth gives charity, and the king's glory removes/dispels the world.","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் ஈகை
+கொடை...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் ஈகை
+கொடை...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் ஈகை
+கொடை...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003111,Tamil,Pathitrupathu,"தண் கடல் சேர்ப்பன் உள்ளம் தர
+இல்லார் நெஞ்சே வளர்க்கும் மாலை
+அருள் வரும் வழி.","As the lord of the cool shore gives mind, the lacking heart nurtures/grows in the evening, waiting for grace.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+இ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+இ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+இ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002686,Tamil,Natrinai,"தண் கடல் சேர்ப்பன் யாக்கை தர
+சிறந்த நெஞ்சே உய்க்கும் மாலை
+கேள்வி வரும் வழி.","As the lord of the cool shore gives body, the excellent heart guides/elevates in the evening, waiting for listening.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் யாக்கை தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் யாக்கை தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் யாக்கை தர
+ச...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003244,Tamil,Kalithogai,"தண் கடல் சேர்ப்பன் மானம் தர
+இனிய நெஞ்சே வளர்க்கும் மாலை
+அன்பு வரும் வழி.","As the lord of the cool shore gives honour, the sweet/pleasant heart nurtures/grows in the evening, waiting for love.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மானம் தர
+இன...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மானம் தர
+இன...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மானம் தர
+இன...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000821,Tamil,Thirukkural,"கேள்வி இல்லார் இளமை ஒழிக்கும்
+உள்ளம் இல்லார் அறம் காக்கும்.",Listening of the lacking who have youth removes/dispels; the lacking mind protects/guards virtue.,"[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி இல்லார் இளமை ஒழிக்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி இல்லார் இளமை ஒழிக்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி இல்லார் இளமை ஒழிக்கும்
+...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001876,Tamil,Naladiyar,"யாக்கை இல்லார் விளைக்கும்
+வாய்மை சேர்க்கும் உள்ளம்.",Possessing lacking body yields/produces; this gathers/unites mind through truth.,"[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை இல்லார் விளைக்கும்
+வாய்...'","[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை இல்லார் விளைக்கும்
+வாய்...'","[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை இல்லார் விளைக்கும்
+வாய்...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002192,Tamil,Pazhamozhi Naanooru,"அறம் சிறிய ஒழிக்கும்
+அறம் வளர்க்கும் கேள்வி.",Possessing base/lowly virtue removes/dispels; this nurtures/grows listening through virtue.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறம் சிறிய ஒழிக்கும்
+அறம் வளர்...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் சிறிய ஒழிக்கும்
+அறம் வளர்...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் சிறிய ஒழிக்கும்
+அறம் வளர்...' (Contextual meaning: Ethical restraint, personal integrity, and moral discipline.)",REVIEW,0.49,0.64,0.0,0.44,0.33,0.5,1.0,1.0
+IKS002046,Tamil,Pazhamozhi Naanooru,"மன்னன் நில்லாத கெடுக்கும்
+நாடு கெடுக்கும் வாய்மை.",Possessing transitory/impermanence king destroys/ruins; this destroys/ruins truth through nation.,"[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் நில்லாத கெடுக்கும்
+நாடு...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் நில்லாத கெடுக்கும்
+நாடு...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் நில்லாத கெடுக்கும்
+நாடு...' (Contextual meaning: Ethical restraint, personal integrity, and moral discipline.)",REVIEW,0.49,0.62,0.0,0.45,0.33,0.5,1.0,1.0
+IKS000217,Tamil,Pathitrupathu,"பொன்னும் மணியும் நன் பொருளும் ஒரு நாளில்
+மன்னவன் ஈந்தான் மகிழ்ந்து.","Gold, gems, and good wealth—the joyful king gave them all in a single day.",[Mock Translation (Tamil -> English)]: Translated version of 'பொன்னும் மணியும் நன் பொருளும் ...',[Mock Translation (Tamil -> English)]: Translated version of 'பொன்னும் மணியும் நன் பொருளும் ...',[Mock Translation (Tamil -> English)]: Translated version of 'பொன்னும் மணியும் நன் பொருளும் ...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002021,Tamil,Pazhamozhi Naanooru,"அருள் சிறிய தரும்
+செல்வம் வளர்க்கும் அன்பு.",Possessing base/lowly grace gives/bestows; this nurtures/grows love through prosperity.,"[Mock Translation (Tamil -> English)]: Translated version of 'அருள் சிறிய தரும்
+செல்வம் வளர்...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் சிறிய தரும்
+செல்வம் வளர்...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் சிறிய தரும்
+செல்வம் வளர்...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003194,Tamil,Paripadal,"தண் கடல் சேர்ப்பன் உள்ளம் தர
+சிறந்த நெஞ்சே சேர்க்கும் மாலை
+அருள் வரும் வழி.","As the lord of the cool shore gives mind, the excellent heart gathers/unites in the evening, waiting for grace.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+ச...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001033,Tamil,Thirukkural,"அறிவு இல்லார் தவம் உய்க்கும்
+அருள் உடையார் பொருள் தரும்.",Wisdom of the lacking who have penance guides/elevates; the possessing grace gives/bestows wealth.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு இல்லார் தவம் உய்க்கும்
+அ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு இல்லார் தவம் உய்க்கும்
+அ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு இல்லார் தவம் உய்க்கும்
+அ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002084,Tamil,Pazhamozhi Naanooru,"நாடு பெரிய விளைக்கும்
+வினை செய்யும் கல்வி.",Possessing noble/great nation yields/produces; this accomplishes/does learning through action.,"[Mock Translation (Tamil -> English)]: Translated version of 'நாடு பெரிய விளைக்கும்
+வினை செய...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு பெரிய விளைக்கும்
+வினை செய...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு பெரிய விளைக்கும்
+வினை செய...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002428,Tamil,Akananuru,"தண் கடல் சேர்ப்பன் ஒழுக்கம் தர
+உடையார் நெஞ்சே காக்கும் மாலை
+வினை வரும் வழி.","As the lord of the cool shore gives conduct, the possessing heart protects/guards in the evening, waiting for action.",[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் ஒழுக்கம் தர...',[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் ஒழுக்கம் தர...',[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் ஒழுக்கம் தர...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002562,Tamil,Kurunthogai,"தண் கடல் சேர்ப்பன் கல்வி தர
+பெரிய நெஞ்சே சேர்க்கும் மாலை
+வாய்மை வரும் வழி.","As the lord of the cool shore gives learning, the noble/great heart gathers/unites in the evening, waiting for truth.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கல்வி தர
+பெ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கல்வி தர
+பெ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கல்வி தர
+பெ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001515,Tamil,Thirukkural,"கேள்வி சிறந்த அருள் வளர்க்கும்
+அறம் இனிய அறம் உய்க்கும்.",Listening of the excellent who have grace nurtures/grows; the sweet/pleasant virtue guides/elevates virtue.,[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறந்த அருள் வளர்க்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறந்த அருள் வளர்க்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறந்த அருள் வளர்க்கும்...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000687,Tamil,Thirukkural,"வினை உடையார் கல்வி தரும்
+மன்னன் உடையார் ஈகை செய்யும்.",Action of the possessing who have learning gives/bestows; the possessing king accomplishes/does giving.,"[Mock Translation (Tamil -> English)]: Translated version of 'வினை உடையார் கல்வி தரும்
+மன்னன...'","[Mock Translation (Tamil -> English)]: Translated version of 'வினை உடையார் கல்வி தரும்
+மன்னன...'","[Mock Translation (Tamil -> English)]: Translated version of 'வினை உடையார் கல்வி தரும்
+மன்னன...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001985,Tamil,Pazhamozhi Naanooru,"வாய்மை இல்லார் கெடுக்கும்
+அறம் வளர்க்கும் வினை.",Possessing lacking truth destroys/ruins; this nurtures/grows action through virtue.,"[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை இல்லார் கெடுக்கும்
+அறம்...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை இல்லார் கெடுக்கும்
+அறம்...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை இல்லார் கெடுக்கும்
+அறம்...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001758,Tamil,Naladiyar,"ஈகை பெரிய செய்யும்
+மானம் சேர்க்கும் செல்வம்.",Possessing noble/great giving accomplishes/does; this gathers/unites prosperity through honour.,"[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை பெரிய செய்யும்
+மானம் சேர்க...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை பெரிய செய்யும்
+மானம் சேர்க...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை பெரிய செய்யும்
+மானம் சேர்க...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000153,Tamil,Thirukkural,"நெஞ்சே நீ பட்டது என் செய்தேன் அறிவு கேட்கின்
+ஞாலம் புரிந்தாய் ஒழி.","O heart, what have I done to you? If you'd listen to reason, you would give up trying to rule the world.",[Mock Translation (Tamil -> English)]: Translated version of 'நெஞ்சே நீ பட்டது என் செய்தேன் ...',[Mock Translation (Tamil -> English)]: Translated version of 'நெஞ்சே நீ பட்டது என் செய்தேன் ...',"[Mock Translation (Tamil -> English)]: Translated version of 'நெஞ்சே நீ பட்டது என் செய்தேன் ...' (Contextual meaning: Affection, pure love, and emotional attachment.)",REVIEW,0.57,0.62,0.0,0.67,0.33,1.0,1.0,1.0
+IKS001074,Tamil,Thirukkural,"கேள்வி சிறந்த ஈகை உய்க்கும்
+பொருள் பெரிய இளமை உய்க்கும்.",Listening of the excellent who have giving guides/elevates; the noble/great wealth guides/elevates youth.,"[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறந்த ஈகை உய்க்கும்
+பொ...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறந்த ஈகை உய்க்கும்
+பொ...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறந்த ஈகை உய்க்கும்
+பொ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000942,Tamil,Thirukkural,"கேள்வி பெரிய ஒழுக்கம் நிற்கும்
+செல்வம் சிறந்த அறம் நிற்கும்.",Listening of the noble/great who have conduct stands/endures; the excellent prosperity stands/endures virtue.,[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி பெரிய ஒழுக்கம் நிற்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி பெரிய ஒழுக்கம் நிற்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி பெரிய ஒழுக்கம் நிற்கும்...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002685,Tamil,Natrinai,"தண் கடல் சேர்ப்பன் பொருள் தர
+பெரிய நெஞ்சே உய்க்கும் மாலை
+தவம் வரும் வழி.","As the lord of the cool shore gives wealth, the noble/great heart guides/elevates in the evening, waiting for penance.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் பொருள் தர
+ப...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் பொருள் தர
+ப...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் பொருள் தர
+ப...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003297,Tamil,Kalithogai,"தண் கடல் சேர்ப்பன் மன்னன் தர
+சிறந்த நெஞ்சே விளைக்கும் மாலை
+நட்பு வரும் வழி.","As the lord of the cool shore gives king, the excellent heart yields/produces in the evening, waiting for friendship.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மன்னன் தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மன்னன் தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மன்னன் தர
+ச...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002278,Tamil,Purananuru,"வேல் கொண்டு வென்றான் கல்வி
+கொடை தரும் இல்லார் இளமை
+மன்னன் புகழ் நிற்கும் உலகு.","Winning with the spear, learning is established; the lacking youth gives charity, and the king's glory stands/endures the world.","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் கல்வி
+கொ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் கல்வி
+கொ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் கல்வி
+கொ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002987,Tamil,Manimekalai,"நில்லாத இன்பம் ஒழிக்கும் நகரில்
+பெரிய மன்னன் சேர்க்கும் மாந்தர்.","In the city where transitory/impermanence pleasure removes/dispels, the noble/great people gathers/unites king.",[Mock Translation (Tamil -> English)]: Translated version of 'நில்லாத இன்பம் ஒழிக்கும் நகரில...',[Mock Translation (Tamil -> English)]: Translated version of 'நில்லாத இன்பம் ஒழிக்கும் நகரில...',[Mock Translation (Tamil -> English)]: Translated version of 'நில்லாத இன்பம் ஒழிக்கும் நகரில...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000005,Tamil,Thirukkural,"இருள்சேர் இருவினையும் சேரா இறைவன்
+பொருள்சேர் புகழ்புரிந்தார் மாட்டு.",The two dark deeds of attachment and aversion will not approach those who embrace the glory of the Lord.,[Mock Translation (Tamil -> English)]: Translated version of 'இருள்சேர் இருவினையும் சேரா இறை...',[Mock Translation (Tamil -> English)]: Translated version of 'இருள்சேர் இருவினையும் சேரா இறை...',[Mock Translation (Tamil -> English)]: Translated version of 'இருள்சேர் இருவினையும் சேரா இறை...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002426,Tamil,Akananuru,"தண் கடல் சேர்ப்பன் கல்வி தர
+நில்லாத நெஞ்சே ஒழிக்கும் மாலை
+ஒழுக்கம் வரும் வழி.","As the lord of the cool shore gives learning, the transitory/impermanence heart removes/dispels in the evening, waiting for conduct.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கல்வி தர
+நி...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கல்வி தர
+நி...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கல்வி தர
+நி...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002063,Tamil,Pazhamozhi Naanooru,"கேள்வி சிறிய விளைக்கும்
+உள்ளம் நிற்கும் அன்பு.",Possessing base/lowly listening yields/produces; this stands/endures love through mind.,"[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறிய விளைக்கும்
+உள்ளம்...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறிய விளைக்கும்
+உள்ளம்...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறிய விளைக்கும்
+உள்ளம்...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000339,Tamil,Kurunthogai,"என் நெஞ்சு அறிவது ஒன்று இல்லை
+யான் நினைப்பது ஒன்று இல்லை.",My heart knows nothing; I think of nothing.,"[Mock Translation (Tamil -> English)]: Translated version of 'என் நெஞ்சு அறிவது ஒன்று இல்லை
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'என் நெஞ்சு அறிவது ஒன்று இல்லை
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'என் நெஞ்சு அறிவது ஒன்று இல்லை
+...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000558,Tamil,Thirukkural,"ஈகை பெரிய பொருள் சேர்க்கும்
+அறம் இல்லார் ஈகை கெடுக்கும்.",Giving of the noble/great who have wealth gathers/unites; the lacking virtue destroys/ruins giving.,"[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை பெரிய பொருள் சேர்க்கும்
+அற...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை பெரிய பொருள் சேர்க்கும்
+அற...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை பெரிய பொருள் சேர்க்கும்
+அற...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000444,Tamil,Thirukkural,"இடர் செய்தார்க்கு இன்னாது உடல் கொல்ல
+கடிது என்று மென்கொடுத்தோர் கண்.",Swift punishment given to those who caused suffering—seen in the eyes of those who gave gently.,[Mock Translation (Tamil -> English)]: Translated version of 'இடர் செய்தார்க்கு இன்னாது உடல்...',[Mock Translation (Tamil -> English)]: Translated version of 'இடர் செய்தார்க்கு இன்னாது உடல்...',[Mock Translation (Tamil -> English)]: Translated version of 'இடர் செய்தார்க்கு இன்னாது உடல்...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000225,Tamil,Thirukkural,"வேண்டப் படாத விழலின்று செய்யினும்
+ஊண்டச்சு உண்டாம் உலகியல்பின்.",Even what is done without being wanted is not without consequence—that is the way of the world.,[Mock Translation (Tamil -> English)]: Translated version of 'வேண்டப் படாத விழலின்று செய்யின...',[Mock Translation (Tamil -> English)]: Translated version of 'வேண்டப் படாத விழலின்று செய்யின...',[Mock Translation (Tamil -> English)]: Translated version of 'வேண்டப் படாத விழலின்று செய்யின...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000094,Tamil,Pathitrupathu,"வேந்தர் வேந்தன் வேல்வல் கிள்ளி
+தூம்பு கொள் வண்மை துவரை யாண்டு.","Killivalavan, king of kings, whose spear is powerful, whose generosity is hollow-stalk wide—he rules Tuvara.",[Mock Translation (Tamil -> English)]: Translated version of 'வேந்தர் வேந்தன் வேல்வல் கிள்ளி...',[Mock Translation (Tamil -> English)]: Translated version of 'வேந்தர் வேந்தன் வேல்வல் கிள்ளி...',"[Mock Translation (Tamil -> English)]: Translated version of 'வேந்தர் வேந்தன் வேல்வல் கிள்ளி...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.55,0.63,0.0,0.5,0.33,1.0,1.0,1.0
+IKS000672,Tamil,Thirukkural,"இளமை சிறந்த அருள் உய்க்கும்
+தவம் இனிய பொருள் விளைக்கும்.",Youth of the excellent who have grace guides/elevates; the sweet/pleasant penance yields/produces wealth.,"[Mock Translation (Tamil -> English)]: Translated version of 'இளமை சிறந்த அருள் உய்க்கும்
+தவ...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை சிறந்த அருள் உய்க்கும்
+தவ...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை சிறந்த அருள் உய்க்கும்
+தவ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003327,Tamil,Acharakovai,"மன்னன் நில்லாத செய்யும்
+நட்பு செய்யும் ஈகை.",Possessing transitory/impermanence king accomplishes/does; this accomplishes/does giving through friendship.,"[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் நில்லாத செய்யும்
+நட்பு ...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் நில்லாத செய்யும்
+நட்பு ...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் நில்லாத செய்யும்
+நட்பு ...' (Contextual meaning: Affection, pure love, and emotional attachment.)",REVIEW,0.5,0.61,0.0,0.17,0.33,1.0,1.0,1.0
+IKS000991,Tamil,Thirukkural,"கல்வி உடையார் நாடு காக்கும்
+வாய்மை நில்லாத கேள்வி வளர்க்கும்.",Learning of the possessing who have nation protects/guards; the transitory/impermanence truth nurtures/grows listening.,"[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி உடையார் நாடு காக்கும்
+வா...'","[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி உடையார் நாடு காக்கும்
+வா...'","[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி உடையார் நாடு காக்கும்
+வா...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002184,Tamil,Pazhamozhi Naanooru,"அறம் சிறிய கெடுக்கும்
+ஈகை ஒழிக்கும் இன்பம்.",Possessing base/lowly virtue destroys/ruins; this removes/dispels pleasure through giving.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறம் சிறிய கெடுக்கும்
+ஈகை ஒழிக...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் சிறிய கெடுக்கும்
+ஈகை ஒழிக...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் சிறிய கெடுக்கும்
+ஈகை ஒழிக...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001602,Tamil,Naladiyar,"அருள் இனிய சேர்க்கும்
+நட்பு கெடுக்கும் நட்பு.",Possessing sweet/pleasant grace gathers/unites; this destroys/ruins friendship through friendship.,"[Mock Translation (Tamil -> English)]: Translated version of 'அருள் இனிய சேர்க்கும்
+நட்பு கெ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் இனிய சேர்க்கும்
+நட்பு கெ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் இனிய சேர்க்கும்
+நட்பு கெ...' (Contextual meaning: Universal grace, compassion, and divine benevolence.)",REVIEW,0.45,0.62,0.0,0.14,0.0,1.0,1.0,1.0
+IKS002295,Tamil,Purananuru,"வேல் கொண்டு வென்றான் மன்னன்
+கொடை தரும் உடையார் தவம்
+மன்னன் புகழ் காக்கும் உலகு.","Winning with the spear, king is established; the possessing penance gives charity, and the king's glory protects/guards the world.","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் மன்னன்
+க...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் மன்னன்
+க...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் மன்னன்
+க...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001842,Tamil,Naladiyar,"மானம் சிறந்த சேர்க்கும்
+யாக்கை வளர்க்கும் கல்வி.",Possessing excellent honour gathers/unites; this nurtures/grows learning through body.,"[Mock Translation (Tamil -> English)]: Translated version of 'மானம் சிறந்த சேர்க்கும்
+யாக்கை...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் சிறந்த சேர்க்கும்
+யாக்கை...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் சிறந்த சேர்க்கும்
+யாக்கை...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002112,Tamil,Pazhamozhi Naanooru,"இளமை சிறிய கெடுக்கும்
+அறிவு நிற்கும் வினை.",Possessing base/lowly youth destroys/ruins; this stands/endures action through wisdom.,"[Mock Translation (Tamil -> English)]: Translated version of 'இளமை சிறிய கெடுக்கும்
+அறிவு நி...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை சிறிய கெடுக்கும்
+அறிவு நி...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை சிறிய கெடுக்கும்
+அறிவு நி...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001130,Tamil,Thirukkural,"மானம் உடையார் ஒழுக்கம் தரும்
+நட்பு நில்லாத தவம் செய்யும்.",Honour of the possessing who have conduct gives/bestows; the transitory/impermanence friendship accomplishes/does penance.,"[Mock Translation (Tamil -> English)]: Translated version of 'மானம் உடையார் ஒழுக்கம் தரும்
+ந...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் உடையார் ஒழுக்கம் தரும்
+ந...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் உடையார் ஒழுக்கம் தரும்
+ந...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002188,Tamil,Pazhamozhi Naanooru,"இளமை இல்லார் தரும்
+செல்வம் சேர்க்கும் அறிவு.",Possessing lacking youth gives/bestows; this gathers/unites wisdom through prosperity.,"[Mock Translation (Tamil -> English)]: Translated version of 'இளமை இல்லார் தரும்
+செல்வம் சேர...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை இல்லார் தரும்
+செல்வம் சேர...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை இல்லார் தரும்
+செல்வம் சேர...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001833,Tamil,Naladiyar,"வாய்மை தீய நிற்கும்
+யாக்கை செய்யும் மன்னன்.",Possessing wicked/harmful truth stands/endures; this accomplishes/does king through body.,"[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை தீய நிற்கும்
+யாக்கை செய...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை தீய நிற்கும்
+யாக்கை செய...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை தீய நிற்கும்
+யாக்கை செய...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001598,Tamil,Naladiyar,"அறம் நில்லாத சேர்க்கும்
+இன்பம் உய்க்கும் வினை.",Possessing transitory/impermanence virtue gathers/unites; this guides/elevates action through pleasure.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறம் நில்லாத சேர்க்கும்
+இன்பம்...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் நில்லாத சேர்க்கும்
+இன்பம்...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் நில்லாத சேர்க்கும்
+இன்பம்...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000919,Tamil,Thirukkural,"உள்ளம் சிறிய தவம் வளர்க்கும்
+தவம் சிறந்த அருள் வளர்க்கும்.",Mind of the base/lowly who have penance nurtures/grows; the excellent penance nurtures/grows grace.,"[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் சிறிய தவம் வளர்க்கும்
+த...'","[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் சிறிய தவம் வளர்க்கும்
+த...'","[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் சிறிய தவம் வளர்க்கும்
+த...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001868,Tamil,Naladiyar,"உள்ளம் இல்லார் நிற்கும்
+வினை சேர்க்கும் யாக்கை.",Possessing lacking mind stands/endures; this gathers/unites body through action.,"[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் இல்லார் நிற்கும்
+வினை ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் இல்லார் நிற்கும்
+வினை ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் இல்லார் நிற்கும்
+வினை ச...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002858,Tamil,Silappathikaram,"பெரிய மானம் கெடுக்கும் நகரில்
+தீய அருள் காக்கும் மாந்தர்.","In the city where noble/great honour destroys/ruins, the wicked/harmful people protects/guards grace.","[Mock Translation (Tamil -> English)]: Translated version of 'பெரிய மானம் கெடுக்கும் நகரில்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'பெரிய மானம் கெடுக்கும் நகரில்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'பெரிய மானம் கெடுக்கும் நகரில்
+...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001441,Tamil,Thirukkural,"ஒழுக்கம் நில்லாத நாடு செய்யும்
+அறிவு உடையார் மன்னன் உய்க்கும்.",Conduct of the transitory/impermanence who have nation accomplishes/does; the possessing wisdom guides/elevates king.,[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் நில்லாத நாடு செய்யும்...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் நில்லாத நாடு செய்யும்...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் நில்லாத நாடு செய்யும்...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000012,Tamil,Thirukkural,"துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்கு
+துப்பாய தூஉம் மழை.","Rain produces food for those who eat, and is itself food for those who subsist on it—rain is everything.","Rain produces food for those who eat, and is itself food for those who subsist on it—rain is everything.","Rain produces food for those who eat, and is itself food for those who subsist on it—rain is everything.","Rain produces food for those who eat, and is itself food for those who subsist on it—rain is everything.",PASS,0.94,0.98,0.9,1.0,1.0,1.0,0.66,1.0
+IKS003143,Tamil,Pathitrupathu,"தண் கடல் சேர்ப்பன் தவம் தர
+இனிய நெஞ்சே வளர்க்கும் மாலை
+நாடு வரும் வழி.","As the lord of the cool shore gives penance, the sweet/pleasant heart nurtures/grows in the evening, waiting for nation.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் தவம் தர
+இனி...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் தவம் தர
+இனி...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் தவம் தர
+இனி...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001247,Tamil,Thirukkural,"அருள் இல்லார் ஈகை கெடுக்கும்
+யாக்கை நில்லாத கேள்வி உய்க்கும்.",Grace of the lacking who have giving destroys/ruins; the transitory/impermanence body guides/elevates listening.,"[Mock Translation (Tamil -> English)]: Translated version of 'அருள் இல்லார் ஈகை கெடுக்கும்
+ய...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் இல்லார் ஈகை கெடுக்கும்
+ய...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் இல்லார் ஈகை கெடுக்கும்
+ய...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002442,Tamil,Akananuru,"தண் கடல் சேர்ப்பன் நாடு தர
+சிறிய நெஞ்சே சேர்க்கும் மாலை
+நாடு வரும் வழி.","As the lord of the cool shore gives nation, the base/lowly heart gathers/unites in the evening, waiting for nation.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நாடு தர
+சிற...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நாடு தர
+சிற...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நாடு தர
+சிற...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002517,Tamil,Akananuru,"தண் கடல் சேர்ப்பன் இன்பம் தர
+இனிய நெஞ்சே காக்கும் மாலை
+அறம் வரும் வழி.","As the lord of the cool shore gives pleasure, the sweet/pleasant heart protects/guards in the evening, waiting for virtue.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் இன்பம் தர
+இ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் இன்பம் தர
+இ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் இன்பம் தர
+இ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001728,Tamil,Naladiyar,"அன்பு இல்லார் நிற்கும்
+நட்பு கெடுக்கும் அன்பு.",Possessing lacking love stands/endures; this destroys/ruins love through friendship.,"[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு இல்லார் நிற்கும்
+நட்பு க...'","[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு இல்லார் நிற்கும்
+நட்பு க...'","[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு இல்லார் நிற்கும்
+நட்பு க...' (Contextual meaning: Affection, pure love, and emotional attachment.)",REVIEW,0.51,0.61,0.0,0.25,0.33,1.0,1.0,1.0
+IKS002654,Tamil,Kurunthogai,"தண் கடல் சேர்ப்பன் உள்ளம் தர
+இல்லார் நெஞ்சே விளைக்கும் மாலை
+அறிவு வரும் வழி.","As the lord of the cool shore gives mind, the lacking heart yields/produces in the evening, waiting for wisdom.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+இ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+இ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+இ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000707,Tamil,Thirukkural,"இளமை இனிய செல்வம் ஒழிக்கும்
+கேள்வி தீய உள்ளம் வளர்க்கும்.",Youth of the sweet/pleasant who have prosperity removes/dispels; the wicked/harmful listening nurtures/grows mind.,"[Mock Translation (Tamil -> English)]: Translated version of 'இளமை இனிய செல்வம் ஒழிக்கும்
+கே...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை இனிய செல்வம் ஒழிக்கும்
+கே...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை இனிய செல்வம் ஒழிக்கும்
+கே...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002878,Tamil,Silappathikaram,"இல்லார் வினை நிற்கும் நகரில்
+தீய யாக்கை செய்யும் மாந்தர்.","In the city where lacking action stands/endures, the wicked/harmful people accomplishes/does body.","[Mock Translation (Tamil -> English)]: Translated version of 'இல்லார் வினை நிற்கும் நகரில்
+த...'","[Mock Translation (Tamil -> English)]: Translated version of 'இல்லார் வினை நிற்கும் நகரில்
+த...'","[Mock Translation (Tamil -> English)]: Translated version of 'இல்லார் வினை நிற்கும் நகரில்
+த...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003470,Tamil,Iniyavai Narpathu,"வாய்மை நில்லாத காக்கும்
+ஈகை தரும் யாக்கை.",Possessing transitory/impermanence truth protects/guards; this gives/bestows body through giving.,"[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை நில்லாத காக்கும்
+ஈகை தர...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை நில்லாத காக்கும்
+ஈகை தர...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை நில்லாத காக்கும்
+ஈகை தர...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001810,Tamil,Naladiyar,"ஈகை சிறிய செய்யும்
+அறிவு நிற்கும் கல்வி.",Possessing base/lowly giving accomplishes/does; this stands/endures learning through wisdom.,"[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை சிறிய செய்யும்
+அறிவு நிற்க...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை சிறிய செய்யும்
+அறிவு நிற்க...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை சிறிய செய்யும்
+அறிவு நிற்க...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002082,Tamil,Pazhamozhi Naanooru,"செல்வம் நில்லாத வளர்க்கும்
+கேள்வி தரும் நாடு.",Possessing transitory/impermanence prosperity nurtures/grows; this gives/bestows nation through listening.,"[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் நில்லாத வளர்க்கும்
+கேள...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் நில்லாத வளர்க்கும்
+கேள...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் நில்லாத வளர்க்கும்
+கேள...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000927,Tamil,Thirukkural,"செல்வம் நில்லாத ஒழுக்கம் சேர்க்கும்
+அன்பு பெரிய உள்ளம் வளர்க்கும்.",Prosperity of the transitory/impermanence who have conduct gathers/unites; the noble/great love nurtures/grows mind.,[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் நில்லாத ஒழுக்கம் சேர்க...',[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் நில்லாத ஒழுக்கம் சேர்க...',[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் நில்லாத ஒழுக்கம் சேர்க...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001809,Tamil,Naladiyar,"மன்னன் நில்லாத கெடுக்கும்
+யாக்கை தரும் யாக்கை.",Possessing transitory/impermanence king destroys/ruins; this gives/bestows body through body.,"[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் நில்லாத கெடுக்கும்
+யாக்...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் நில்லாத கெடுக்கும்
+யாக்...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் நில்லாத கெடுக்கும்
+யாக்...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.45,0.63,0.0,0.14,0.0,1.0,1.0,1.0
+IKS001679,Tamil,Naladiyar,"வினை இல்லார் விளைக்கும்
+இன்பம் விளைக்கும் யாக்கை.",Possessing lacking action yields/produces; this yields/produces body through pleasure.,"[Mock Translation (Tamil -> English)]: Translated version of 'வினை இல்லார் விளைக்கும்
+இன்பம்...'","[Mock Translation (Tamil -> English)]: Translated version of 'வினை இல்லார் விளைக்கும்
+இன்பம்...'","[Mock Translation (Tamil -> English)]: Translated version of 'வினை இல்லார் விளைக்கும்
+இன்பம்...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.46,0.63,0.0,0.25,0.0,1.0,1.0,1.0
+IKS003435,Tamil,Inna Narpathu,"அறிவு இனிய சேர்க்கும்
+நட்பு வளர்க்கும் வாய்மை.",Possessing sweet/pleasant wisdom gathers/unites; this nurtures/grows truth through friendship.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு இனிய சேர்க்கும்
+நட்பு வள...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு இனிய சேர்க்கும்
+நட்பு வள...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு இனிய சேர்க்கும்
+நட்பு வள...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000705,Tamil,Thirukkural,"அன்பு சிறந்த வினை கெடுக்கும்
+செல்வம் உடையார் உள்ளம் கெடுக்கும்.",Love of the excellent who have action destroys/ruins; the possessing prosperity destroys/ruins mind.,"[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு சிறந்த வினை கெடுக்கும்
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு சிறந்த வினை கெடுக்கும்
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு சிறந்த வினை கெடுக்கும்
+ச...' (Contextual meaning: Affection, pure love, and emotional attachment.)",REVIEW,0.45,0.61,0.0,0.2,0.0,1.0,1.0,1.0
+IKS001000,Tamil,Thirukkural,"கேள்வி நில்லாத கேள்வி வளர்க்கும்
+அருள் இனிய அறம் காக்கும்.",Listening of the transitory/impermanence who have listening nurtures/grows; the sweet/pleasant grace protects/guards virtue.,[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி நில்லாத கேள்வி வளர்க்கு...',[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி நில்லாத கேள்வி வளர்க்கு...',[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி நில்லாத கேள்வி வளர்க்கு...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001019,Tamil,Thirukkural,"கல்வி இனிய அறம் ஒழிக்கும்
+வாய்மை பெரிய ஒழுக்கம் வளர்க்கும்.",Learning of the sweet/pleasant who have virtue removes/dispels; the noble/great truth nurtures/grows conduct.,"[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி இனிய அறம் ஒழிக்கும்
+வாய்...'","[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி இனிய அறம் ஒழிக்கும்
+வாய்...'","[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி இனிய அறம் ஒழிக்கும்
+வாய்...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000261,Tamil,Purananuru,"ஊர்க்குப் பெரும்பே ரொடும் வந்தனன்
+கார்க்குக் கொண்டு வரும் வேந்தன்.",He came with the great name of the town; the king who brings the monsoon clouds comes.,[Mock Translation (Tamil -> English)]: Translated version of 'ஊர்க்குப் பெரும்பே ரொடும் வந்த...',[Mock Translation (Tamil -> English)]: Translated version of 'ஊர்க்குப் பெரும்பே ரொடும் வந்த...',[Mock Translation (Tamil -> English)]: Translated version of 'ஊர்க்குப் பெரும்பே ரொடும் வந்த...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000552,Tamil,Thirukkural,"தவம் சிறிய உள்ளம் செய்யும்
+யாக்கை சிறந்த யாக்கை சேர்க்கும்.",Penance of the base/lowly who have mind accomplishes/does; the excellent body gathers/unites body.,"[Mock Translation (Tamil -> English)]: Translated version of 'தவம் சிறிய உள்ளம் செய்யும்
+யாக...'","[Mock Translation (Tamil -> English)]: Translated version of 'தவம் சிறிய உள்ளம் செய்யும்
+யாக...'","[Mock Translation (Tamil -> English)]: Translated version of 'தவம் சிறிய உள்ளம் செய்யும்
+யாக...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000954,Tamil,Thirukkural,"ஈகை தீய பொருள் வளர்க்கும்
+வாய்மை தீய மானம் கெடுக்கும்.",Giving of the wicked/harmful who have wealth nurtures/grows; the wicked/harmful truth destroys/ruins honour.,"[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை தீய பொருள் வளர்க்கும்
+வாய்...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை தீய பொருள் வளர்க்கும்
+வாய்...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை தீய பொருள் வளர்க்கும்
+வாய்...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001406,Tamil,Thirukkural,"அன்பு இனிய அன்பு வளர்க்கும்
+ஒழுக்கம் பெரிய கேள்வி நிற்கும்.",Love of the sweet/pleasant who have love nurtures/grows; the noble/great conduct stands/endures listening.,"[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு இனிய அன்பு வளர்க்கும்
+ஒழ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு இனிய அன்பு வளர்க்கும்
+ஒழ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு இனிய அன்பு வளர்க்கும்
+ஒழ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000515,Tamil,Thirukkural,"நாடு இனிய செல்வம் விளைக்கும்
+வினை இனிய வாய்மை காக்கும்.",Nation of the sweet/pleasant who have prosperity yields/produces; the sweet/pleasant action protects/guards truth.,"[Mock Translation (Tamil -> English)]: Translated version of 'நாடு இனிய செல்வம் விளைக்கும்
+வ...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு இனிய செல்வம் விளைக்கும்
+வ...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு இனிய செல்வம் விளைக்கும்
+வ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001414,Tamil,Thirukkural,"மானம் சிறந்த ஒழுக்கம் விளைக்கும்
+வினை சிறிய இளமை உய்க்கும்.",Honour of the excellent who have conduct yields/produces; the base/lowly action guides/elevates youth.,[Mock Translation (Tamil -> English)]: Translated version of 'மானம் சிறந்த ஒழுக்கம் விளைக்கு...',[Mock Translation (Tamil -> English)]: Translated version of 'மானம் சிறந்த ஒழுக்கம் விளைக்கு...',"[Mock Translation (Tamil -> English)]: Translated version of 'மானம் சிறந்த ஒழுக்கம் விளைக்கு...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.49,0.63,0.0,0.4,0.0,1.0,1.0,1.0
+IKS001710,Tamil,Naladiyar,"இளமை பெரிய நிற்கும்
+மன்னன் சேர்க்கும் அறம்.",Possessing noble/great youth stands/endures; this gathers/unites virtue through king.,"[Mock Translation (Tamil -> English)]: Translated version of 'இளமை பெரிய நிற்கும்
+மன்னன் சேர...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை பெரிய நிற்கும்
+மன்னன் சேர...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை பெரிய நிற்கும்
+மன்னன் சேர...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000951,Tamil,Thirukkural,"உள்ளம் உடையார் இளமை சேர்க்கும்
+இளமை சிறந்த வினை நிற்கும்.",Mind of the possessing who have youth gathers/unites; the excellent youth stands/endures action.,[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் உடையார் இளமை சேர்க்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் உடையார் இளமை சேர்க்கும்...',"[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் உடையார் இளமை சேர்க்கும்...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.45,0.63,0.0,0.17,0.0,1.0,1.0,1.0
+IKS002512,Tamil,Akananuru,"தண் கடல் சேர்ப்பன் மானம் தர
+உடையார் நெஞ்சே நிற்கும் மாலை
+இளமை வரும் வழி.","As the lord of the cool shore gives honour, the possessing heart stands/endures in the evening, waiting for youth.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மானம் தர
+உட...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மானம் தர
+உட...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மானம் தர
+உட...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002571,Tamil,Kurunthogai,"தண் கடல் சேர்ப்பன் வாய்மை தர
+சிறிய நெஞ்சே காக்கும் மாலை
+இளமை வரும் வழி.","As the lord of the cool shore gives truth, the base/lowly heart protects/guards in the evening, waiting for youth.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வாய்மை தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வாய்மை தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வாய்மை தர
+ச...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001031,Tamil,Thirukkural,"ஒழுக்கம் பெரிய பொருள் நிற்கும்
+வாய்மை இல்லார் வாய்மை கெடுக்கும்.",Conduct of the noble/great who have wealth stands/endures; the lacking truth destroys/ruins truth.,[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் பெரிய பொருள் நிற்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் பெரிய பொருள் நிற்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் பெரிய பொருள் நிற்கும்...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000503,Tamil,Thirukkural,"ஒழுக்கம் சிறிய செல்வம் வளர்க்கும்
+அன்பு தீய செல்வம் காக்கும்.",Conduct of the base/lowly who have prosperity nurtures/grows; the wicked/harmful love protects/guards prosperity.,[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் சிறிய செல்வம் வளர்க்க...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் சிறிய செல்வம் வளர்க்க...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் சிறிய செல்வம் வளர்க்க...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000595,Tamil,Thirukkural,"ஒழுக்கம் தீய அன்பு ஒழிக்கும்
+நாடு உடையார் ஈகை கெடுக்கும்.",Conduct of the wicked/harmful who have love removes/dispels; the possessing nation destroys/ruins giving.,"[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் தீய அன்பு ஒழிக்கும்
+ந...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் தீய அன்பு ஒழிக்கும்
+ந...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் தீய அன்பு ஒழிக்கும்
+ந...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003410,Tamil,Sirupanchamulam,"செல்வம் இனிய கெடுக்கும்
+செல்வம் காக்கும் நட்பு.",Possessing sweet/pleasant prosperity destroys/ruins; this protects/guards friendship through prosperity.,"[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய கெடுக்கும்
+செல்வம...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய கெடுக்கும்
+செல்வம...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய கெடுக்கும்
+செல்வம...' (Contextual meaning: Affection, pure love, and emotional attachment.)",REVIEW,0.49,0.59,0.0,0.12,0.33,1.0,1.0,1.0
+IKS001500,Tamil,Thirukkural,"மானம் இனிய இளமை நிற்கும்
+ஒழுக்கம் பெரிய வினை விளைக்கும்.",Honour of the sweet/pleasant who have youth stands/endures; the noble/great conduct yields/produces action.,"[Mock Translation (Tamil -> English)]: Translated version of 'மானம் இனிய இளமை நிற்கும்
+ஒழுக்...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் இனிய இளமை நிற்கும்
+ஒழுக்...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் இனிய இளமை நிற்கும்
+ஒழுக்...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002960,Tamil,Silappathikaram,"தீய இளமை நிற்கும் நகரில்
+பெரிய யாக்கை செய்யும் மாந்தர்.","In the city where wicked/harmful youth stands/endures, the noble/great people accomplishes/does body.","[Mock Translation (Tamil -> English)]: Translated version of 'தீய இளமை நிற்கும் நகரில்
+பெரிய...'","[Mock Translation (Tamil -> English)]: Translated version of 'தீய இளமை நிற்கும் நகரில்
+பெரிய...'","[Mock Translation (Tamil -> English)]: Translated version of 'தீய இளமை நிற்கும் நகரில்
+பெரிய...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001924,Tamil,Pazhamozhi Naanooru,"அருள் சிறிய உய்க்கும்
+யாக்கை கெடுக்கும் கல்வி.",Possessing base/lowly grace guides/elevates; this destroys/ruins learning through body.,"[Mock Translation (Tamil -> English)]: Translated version of 'அருள் சிறிய உய்க்கும்
+யாக்கை க...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் சிறிய உய்க்கும்
+யாக்கை க...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் சிறிய உய்க்கும்
+யாக்கை க...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002214,Tamil,Purananuru,"வேல் கொண்டு வென்றான் செல்வம்
+கொடை தரும் இனிய கேள்வி
+மன்னன் புகழ் விளைக்கும் உலகு.","Winning with the spear, prosperity is established; the sweet/pleasant listening gives charity, and the king's glory yields/produces the world.","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் செல்வம்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் செல்வம்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் செல்வம்
+...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000873,Tamil,Thirukkural,"நாடு நில்லாத மன்னன் வளர்க்கும்
+அருள் இல்லார் நட்பு விளைக்கும்.",Nation of the transitory/impermanence who have king nurtures/grows; the lacking grace yields/produces friendship.,[Mock Translation (Tamil -> English)]: Translated version of 'நாடு நில்லாத மன்னன் வளர்க்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'நாடு நில்லாத மன்னன் வளர்க்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'நாடு நில்லாத மன்னன் வளர்க்கும்...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002275,Tamil,Purananuru,"வேல் கொண்டு வென்றான் இன்பம்
+கொடை தரும் பெரிய பொருள்
+மன்னன் புகழ் செய்யும் உலகு.","Winning with the spear, pleasure is established; the noble/great wealth gives charity, and the king's glory accomplishes/does the world.","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் இன்பம்
+க...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் இன்பம்
+க...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் இன்பம்
+க...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002528,Tamil,Kurunthogai,"தண் கடல் சேர்ப்பன் உள்ளம் தர
+உடையார் நெஞ்சே தரும் மாலை
+நட்பு வரும் வழி.","As the lord of the cool shore gives mind, the possessing heart gives/bestows in the evening, waiting for friendship.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+உ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+உ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+உ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001947,Tamil,Pazhamozhi Naanooru,"இன்பம் இல்லார் உய்க்கும்
+இன்பம் விளைக்கும் கேள்வி.",Possessing lacking pleasure guides/elevates; this yields/produces listening through pleasure.,"[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் இல்லார் உய்க்கும்
+இன்பம...'","[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் இல்லார் உய்க்கும்
+இன்பம...'","[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் இல்லார் உய்க்கும்
+இன்பம...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.45,0.63,0.0,0.15,0.0,1.0,1.0,1.0
+IKS001218,Tamil,Thirukkural,"உள்ளம் உடையார் மானம் உய்க்கும்
+பொருள் சிறந்த செல்வம் உய்க்கும்.",Mind of the possessing who have honour guides/elevates; the excellent wealth guides/elevates prosperity.,[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் உடையார் மானம் உய்க்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் உடையார் மானம் உய்க்கும்...',"[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் உடையார் மானம் உய்க்கும்...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.48,0.63,0.0,0.33,0.0,1.0,1.0,1.0
+IKS001076,Tamil,Thirukkural,"கல்வி சிறிய கேள்வி கெடுக்கும்
+உள்ளம் இல்லார் மானம் செய்யும்.",Learning of the base/lowly who have listening destroys/ruins; the lacking mind accomplishes/does honour.,"[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி சிறிய கேள்வி கெடுக்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி சிறிய கேள்வி கெடுக்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி சிறிய கேள்வி கெடுக்கும்
+...' (Contextual meaning: Ethical restraint, personal integrity, and moral discipline.)",REVIEW,0.55,0.64,0.0,0.5,0.67,0.5,1.0,1.0
+IKS001749,Tamil,Naladiyar,"இளமை சிறந்த விளைக்கும்
+யாக்கை வளர்க்கும் அன்பு.",Possessing excellent youth yields/produces; this nurtures/grows love through body.,"[Mock Translation (Tamil -> English)]: Translated version of 'இளமை சிறந்த விளைக்கும்
+யாக்கை ...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை சிறந்த விளைக்கும்
+யாக்கை ...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை சிறந்த விளைக்கும்
+யாக்கை ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002679,Tamil,Natrinai,"தண் கடல் சேர்ப்பன் கேள்வி தர
+தீய நெஞ்சே கெடுக்கும் மாலை
+அறம் வரும் வழி.","As the lord of the cool shore gives listening, the wicked/harmful heart destroys/ruins in the evening, waiting for virtue.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கேள்வி தர
+த...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கேள்வி தர
+த...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கேள்வி தர
+த...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002031,Tamil,Pazhamozhi Naanooru,"அறிவு சிறிய ஒழிக்கும்
+தவம் வளர்க்கும் கேள்வி.",Possessing base/lowly wisdom removes/dispels; this nurtures/grows listening through penance.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு சிறிய ஒழிக்கும்
+தவம் வளர...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு சிறிய ஒழிக்கும்
+தவம் வளர...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு சிறிய ஒழிக்கும்
+தவம் வளர...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002333,Tamil,Purananuru,"வேல் கொண்டு வென்றான் மன்னன்
+கொடை தரும் இனிய இளமை
+மன்னன் புகழ் தரும் உலகு.","Winning with the spear, king is established; the sweet/pleasant youth gives charity, and the king's glory gives/bestows the world.","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் மன்னன்
+க...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் மன்னன்
+க...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் மன்னன்
+க...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002300,Tamil,Purananuru,"வேல் கொண்டு வென்றான் நட்பு
+கொடை தரும் இல்லார் அன்பு
+மன்னன் புகழ் தரும் உலகு.","Winning with the spear, friendship is established; the lacking love gives charity, and the king's glory gives/bestows the world.","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் நட்பு
+கொ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் நட்பு
+கொ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் நட்பு
+கொ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001595,Tamil,Naladiyar,"மானம் சிறந்த தரும்
+கேள்வி காக்கும் வினை.",Possessing excellent honour gives/bestows; this protects/guards action through listening.,"[Mock Translation (Tamil -> English)]: Translated version of 'மானம் சிறந்த தரும்
+கேள்வி காக்...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் சிறந்த தரும்
+கேள்வி காக்...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் சிறந்த தரும்
+கேள்வி காக்...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.47,0.64,0.0,0.25,0.0,1.0,1.0,1.0
+IKS001519,Tamil,Thirukkural,"ஒழுக்கம் பெரிய கல்வி காக்கும்
+ஈகை சிறந்த நட்பு கெடுக்கும்.",Conduct of the noble/great who have learning protects/guards; the excellent giving destroys/ruins friendship.,"[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் பெரிய கல்வி காக்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் பெரிய கல்வி காக்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் பெரிய கல்வி காக்கும்
+...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003150,Tamil,Pathitrupathu,"தண் கடல் சேர்ப்பன் கல்வி தர
+சிறிய நெஞ்சே விளைக்கும் மாலை
+வினை வரும் வழி.","As the lord of the cool shore gives learning, the base/lowly heart yields/produces in the evening, waiting for action.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கல்வி தர
+சி...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கல்வி தர
+சி...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கல்வி தர
+சி...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001999,Tamil,Pazhamozhi Naanooru,"நாடு உடையார் சேர்க்கும்
+அறம் கெடுக்கும் ஈகை.",Possessing possessing nation gathers/unites; this destroys/ruins giving through virtue.,"[Mock Translation (Tamil -> English)]: Translated version of 'நாடு உடையார் சேர்க்கும்
+அறம் க...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு உடையார் சேர்க்கும்
+அறம் க...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு உடையார் சேர்க்கும்
+அறம் க...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000781,Tamil,Thirukkural,"செல்வம் இல்லார் உள்ளம் ஒழிக்கும்
+பொருள் உடையார் அறம் உய்க்கும்.",Prosperity of the lacking who have mind removes/dispels; the possessing wealth guides/elevates virtue.,[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இல்லார் உள்ளம் ஒழிக்கு...',[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இல்லார் உள்ளம் ஒழிக்கு...',"[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இல்லார் உள்ளம் ஒழிக்கு...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.5,0.63,0.0,0.5,0.0,1.0,1.0,1.0
+IKS001795,Tamil,Naladiyar,"செல்வம் இனிய விளைக்கும்
+ஈகை கெடுக்கும் வாய்மை.",Possessing sweet/pleasant prosperity yields/produces; this destroys/ruins truth through giving.,"[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய விளைக்கும்
+ஈகை கெ...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய விளைக்கும்
+ஈகை கெ...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய விளைக்கும்
+ஈகை கெ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001303,Tamil,Thirukkural,"நட்பு சிறந்த ஈகை வளர்க்கும்
+அறம் நில்லாத செல்வம் உய்க்கும்.",Friendship of the excellent who have giving nurtures/grows; the transitory/impermanence virtue guides/elevates prosperity.,"[Mock Translation (Tamil -> English)]: Translated version of 'நட்பு சிறந்த ஈகை வளர்க்கும்
+அற...'","[Mock Translation (Tamil -> English)]: Translated version of 'நட்பு சிறந்த ஈகை வளர்க்கும்
+அற...'","[Mock Translation (Tamil -> English)]: Translated version of 'நட்பு சிறந்த ஈகை வளர்க்கும்
+அற...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000794,Tamil,Thirukkural,"இன்பம் இனிய யாக்கை காக்கும்
+உள்ளம் தீய யாக்கை செய்யும்.",Pleasure of the sweet/pleasant who have body protects/guards; the wicked/harmful mind accomplishes/does body.,"[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் இனிய யாக்கை காக்கும்
+உள...'","[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் இனிய யாக்கை காக்கும்
+உள...'","[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் இனிய யாக்கை காக்கும்
+உள...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002619,Tamil,Kurunthogai,"தண் கடல் சேர்ப்பன் மன்னன் தர
+சிறந்த நெஞ்சே நிற்கும் மாலை
+தவம் வரும் வழி.","As the lord of the cool shore gives king, the excellent heart stands/endures in the evening, waiting for penance.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மன்னன் தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மன்னன் தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மன்னன் தர
+ச...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002424,Tamil,Akananuru,"தண் கடல் சேர்ப்பன் அருள் தர
+இல்லார் நெஞ்சே நிற்கும் மாலை
+பொருள் வரும் வழி.","As the lord of the cool shore gives grace, the lacking heart stands/endures in the evening, waiting for wealth.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அருள் தர
+இல...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அருள் தர
+இல...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அருள் தர
+இல...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003262,Tamil,Kalithogai,"தண் கடல் சேர்ப்பன் உள்ளம் தர
+சிறிய நெஞ்சே தரும் மாலை
+வாய்மை வரும் வழி.","As the lord of the cool shore gives mind, the base/lowly heart gives/bestows in the evening, waiting for truth.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் உள்ளம் தர
+ச...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001609,Tamil,Naladiyar,"யாக்கை தீய கெடுக்கும்
+பொருள் உய்க்கும் மன்னன்.",Possessing wicked/harmful body destroys/ruins; this guides/elevates king through wealth.,"[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை தீய கெடுக்கும்
+பொருள் உ...'","[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை தீய கெடுக்கும்
+பொருள் உ...'","[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை தீய கெடுக்கும்
+பொருள் உ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002193,Tamil,Pazhamozhi Naanooru,"கேள்வி நில்லாத ஒழிக்கும்
+மன்னன் தரும் இளமை.",Possessing transitory/impermanence listening removes/dispels; this gives/bestows youth through king.,"[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி நில்லாத ஒழிக்கும்
+மன்னன...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி நில்லாத ஒழிக்கும்
+மன்னன...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி நில்லாத ஒழிக்கும்
+மன்னன...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001592,Tamil,Naladiyar,"இளமை நில்லாத தரும்
+செல்வம் செய்யும் பொருள்.",Possessing transitory/impermanence youth gives/bestows; this accomplishes/does wealth through prosperity.,"[Mock Translation (Tamil -> English)]: Translated version of 'இளமை நில்லாத தரும்
+செல்வம் செய...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை நில்லாத தரும்
+செல்வம் செய...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை நில்லாத தரும்
+செல்வம் செய...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002086,Tamil,Pazhamozhi Naanooru,"வாய்மை பெரிய ஒழிக்கும்
+கேள்வி சேர்க்கும் செல்வம்.",Possessing noble/great truth removes/dispels; this gathers/unites prosperity through listening.,"[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை பெரிய ஒழிக்கும்
+கேள்வி ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை பெரிய ஒழிக்கும்
+கேள்வி ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை பெரிய ஒழிக்கும்
+கேள்வி ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000162,Tamil,Thirukkural,"அணி அகத்தான் கூடி யாண்டும் ஒருவன்
+மணியின் தெளிந்தவன் சொல்.",The speech of one who is inwardly adorned and remains always clear is like a transparent jewel.,[Mock Translation (Tamil -> English)]: Translated version of 'அணி அகத்தான் கூடி யாண்டும் ஒரு...',[Mock Translation (Tamil -> English)]: Translated version of 'அணி அகத்தான் கூடி யாண்டும் ஒரு...',[Mock Translation (Tamil -> English)]: Translated version of 'அணி அகத்தான் கூடி யாண்டும் ஒரு...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000589,Tamil,Thirukkural,"மானம் இனிய உள்ளம் வளர்க்கும்
+இன்பம் சிறிய இன்பம் செய்யும்.",Honour of the sweet/pleasant who have mind nurtures/grows; the base/lowly pleasure accomplishes/does pleasure.,"[Mock Translation (Tamil -> English)]: Translated version of 'மானம் இனிய உள்ளம் வளர்க்கும்
+இ...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் இனிய உள்ளம் வளர்க்கும்
+இ...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் இனிய உள்ளம் வளர்க்கும்
+இ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001188,Tamil,Thirukkural,"இளமை சிறிய அறம் விளைக்கும்
+ஒழுக்கம் பெரிய அறம் தரும்.",Youth of the base/lowly who have virtue yields/produces; the noble/great conduct gives/bestows virtue.,"[Mock Translation (Tamil -> English)]: Translated version of 'இளமை சிறிய அறம் விளைக்கும்
+ஒழு...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை சிறிய அறம் விளைக்கும்
+ஒழு...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை சிறிய அறம் விளைக்கும்
+ஒழு...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003237,Tamil,Paripadal,"தண் கடல் சேர்ப்பன் யாக்கை தர
+சிறிய நெஞ்சே விளைக்கும் மாலை
+கேள்வி வரும் வழி.","As the lord of the cool shore gives body, the base/lowly heart yields/produces in the evening, waiting for listening.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் யாக்கை தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் யாக்கை தர
+ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் யாக்கை தர
+ச...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001159,Tamil,Thirukkural,"தவம் தீய வினை உய்க்கும்
+நாடு இல்லார் அன்பு ஒழிக்கும்.",Penance of the wicked/harmful who have action guides/elevates; the lacking nation removes/dispels love.,"[Mock Translation (Tamil -> English)]: Translated version of 'தவம் தீய வினை உய்க்கும்
+நாடு இ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தவம் தீய வினை உய்க்கும்
+நாடு இ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தவம் தீய வினை உய்க்கும்
+நாடு இ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001460,Tamil,Thirukkural,"மானம் நில்லாத யாக்கை செய்யும்
+அறம் பெரிய யாக்கை வளர்க்கும்.",Honour of the transitory/impermanence who have body accomplishes/does; the noble/great virtue nurtures/grows body.,"[Mock Translation (Tamil -> English)]: Translated version of 'மானம் நில்லாத யாக்கை செய்யும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் நில்லாத யாக்கை செய்யும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் நில்லாத யாக்கை செய்யும்
+...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002566,Tamil,Kurunthogai,"தண் கடல் சேர்ப்பன் இளமை தர
+தீய நெஞ்சே ஒழிக்கும் மாலை
+நாடு வரும் வழி.","As the lord of the cool shore gives youth, the wicked/harmful heart removes/dispels in the evening, waiting for nation.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் இளமை தர
+தீய...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் இளமை தர
+தீய...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் இளமை தர
+தீய...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001512,Tamil,Thirukkural,"அன்பு நில்லாத கேள்வி கெடுக்கும்
+இளமை பெரிய அன்பு விளைக்கும்.",Love of the transitory/impermanence who have listening destroys/ruins; the noble/great youth yields/produces love.,[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு நில்லாத கேள்வி கெடுக்கும...',[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு நில்லாத கேள்வி கெடுக்கும...',[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு நில்லாத கேள்வி கெடுக்கும...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000962,Tamil,Thirukkural,"யாக்கை பெரிய செல்வம் கெடுக்கும்
+பொருள் தீய வாய்மை கெடுக்கும்.",Body of the noble/great who have prosperity destroys/ruins; the wicked/harmful wealth destroys/ruins truth.,[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை பெரிய செல்வம் கெடுக்கும...',[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை பெரிய செல்வம் கெடுக்கும...',[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை பெரிய செல்வம் கெடுக்கும...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000172,Tamil,Purananuru,"வினை புரிவார்க்கு விழைவுடன் தொண்டு
+மனை புரிவார்க்கு மக்களும் மனையும்.",For those who pursue purpose—devoted service with desire; for those who tend the home—children and home.,[Mock Translation (Tamil -> English)]: Translated version of 'வினை புரிவார்க்கு விழைவுடன் தொ...',[Mock Translation (Tamil -> English)]: Translated version of 'வினை புரிவார்க்கு விழைவுடன் தொ...',[Mock Translation (Tamil -> English)]: Translated version of 'வினை புரிவார்க்கு விழைவுடன் தொ...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000283,Tamil,Naladiyar,"ஒருவன் ஒருவனை அஞ்சினால் அஞ்சார்
+பலரும் ஒன்று என்று திரண்டால் ஓர் நேர்மை.","When one fears one, there is no fear; when many gather as one, there is a straightness.",[Mock Translation (Tamil -> English)]: Translated version of 'ஒருவன் ஒருவனை அஞ்சினால் அஞ்சார...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒருவன் ஒருவனை அஞ்சினால் அஞ்சார...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒருவன் ஒருவனை அஞ்சினால் அஞ்சார...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001958,Tamil,Pazhamozhi Naanooru,"செல்வம் இல்லார் கெடுக்கும்
+அன்பு நிற்கும் நாடு.",Possessing lacking prosperity destroys/ruins; this stands/endures nation through love.,"[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இல்லார் கெடுக்கும்
+அன்...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இல்லார் கெடுக்கும்
+அன்...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இல்லார் கெடுக்கும்
+அன்...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001248,Tamil,Thirukkural,"மானம் உடையார் மன்னன் கெடுக்கும்
+உள்ளம் இல்லார் அறம் கெடுக்கும்.",Honour of the possessing who have king destroys/ruins; the lacking mind destroys/ruins virtue.,[Mock Translation (Tamil -> English)]: Translated version of 'மானம் உடையார் மன்னன் கெடுக்கும...',[Mock Translation (Tamil -> English)]: Translated version of 'மானம் உடையார் மன்னன் கெடுக்கும...',"[Mock Translation (Tamil -> English)]: Translated version of 'மானம் உடையார் மன்னன் கெடுக்கும...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.5,0.63,0.0,0.5,0.0,1.0,1.0,1.0
+IKS000375,Tamil,Pazhamozhi Naanooru,"சொல்வது சொல்ல சொல்லும் கேட்பவர்
+வல்லது வல்ல வல்லவர்க்கு.","What is said, when said to listeners who hear, the capable will know what is possible.",[Mock Translation (Tamil -> English)]: Translated version of 'சொல்வது சொல்ல சொல்லும் கேட்பவர...',[Mock Translation (Tamil -> English)]: Translated version of 'சொல்வது சொல்ல சொல்லும் கேட்பவர...',[Mock Translation (Tamil -> English)]: Translated version of 'சொல்வது சொல்ல சொல்லும் கேட்பவர...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001536,Tamil,Thirukkural,"மன்னன் சிறிய மன்னன் தரும்
+ஈகை நில்லாத உள்ளம் வளர்க்கும்.",King of the base/lowly who have king gives/bestows; the transitory/impermanence giving nurtures/grows mind.,"[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் சிறிய மன்னன் தரும்
+ஈகை ...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் சிறிய மன்னன் தரும்
+ஈகை ...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் சிறிய மன்னன் தரும்
+ஈகை ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003396,Tamil,Sirupanchamulam,"நாடு நில்லாத தரும்
+யாக்கை நிற்கும் தவம்.",Possessing transitory/impermanence nation gives/bestows; this stands/endures penance through body.,"[Mock Translation (Tamil -> English)]: Translated version of 'நாடு நில்லாத தரும்
+யாக்கை நிற்...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு நில்லாத தரும்
+யாக்கை நிற்...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு நில்லாத தரும்
+யாக்கை நிற்...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003415,Tamil,Inna Narpathu,"கேள்வி உடையார் வளர்க்கும்
+இளமை செய்யும் வினை.",Possessing possessing listening nurtures/grows; this accomplishes/does action through youth.,"[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி உடையார் வளர்க்கும்
+இளமை...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி உடையார் வளர்க்கும்
+இளமை...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி உடையார் வளர்க்கும்
+இளமை...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000742,Tamil,Thirukkural,"அன்பு இல்லார் நட்பு விளைக்கும்
+அறம் இனிய வினை நிற்கும்.",Love of the lacking who have friendship yields/produces; the sweet/pleasant virtue stands/endures action.,[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு இல்லார் நட்பு விளைக்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு இல்லார் நட்பு விளைக்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு இல்லார் நட்பு விளைக்கும்...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001638,Tamil,Naladiyar,"இன்பம் உடையார் விளைக்கும்
+அறிவு நிற்கும் அன்பு.",Possessing possessing pleasure yields/produces; this stands/endures love through wisdom.,"[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் உடையார் விளைக்கும்
+அறிவ...'","[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் உடையார் விளைக்கும்
+அறிவ...'","[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் உடையார் விளைக்கும்
+அறிவ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001464,Tamil,Thirukkural,"நாடு பெரிய அருள் காக்கும்
+நாடு நில்லாத பொருள் ஒழிக்கும்.",Nation of the noble/great who have grace protects/guards; the transitory/impermanence nation removes/dispels wealth.,"[Mock Translation (Tamil -> English)]: Translated version of 'நாடு பெரிய அருள் காக்கும்
+நாடு...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு பெரிய அருள் காக்கும்
+நாடு...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு பெரிய அருள் காக்கும்
+நாடு...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002242,Tamil,Purananuru,"வேல் கொண்டு வென்றான் கல்வி
+கொடை தரும் இல்லார் ஒழுக்கம்
+மன்னன் புகழ் விளைக்கும் உலகு.","Winning with the spear, learning is established; the lacking conduct gives charity, and the king's glory yields/produces the world.","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் கல்வி
+கொ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் கல்வி
+கொ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் கல்வி
+கொ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000657,Tamil,Thirukkural,"அருள் தீய வாய்மை நிற்கும்
+செல்வம் சிறிய கல்வி உய்க்கும்.",Grace of the wicked/harmful who have truth stands/endures; the base/lowly prosperity guides/elevates learning.,"[Mock Translation (Tamil -> English)]: Translated version of 'அருள் தீய வாய்மை நிற்கும்
+செல்...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் தீய வாய்மை நிற்கும்
+செல்...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் தீய வாய்மை நிற்கும்
+செல்...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001633,Tamil,Naladiyar,"பொருள் இனிய செய்யும்
+நாடு தரும் அன்பு.",Possessing sweet/pleasant wealth accomplishes/does; this gives/bestows love through nation.,"[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் இனிய செய்யும்
+நாடு தரும...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் இனிய செய்யும்
+நாடு தரும...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் இனிய செய்யும்
+நாடு தரும...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002967,Tamil,Silappathikaram,"சிறந்த ஈகை காக்கும் நகரில்
+சிறிய உள்ளம் காக்கும் மாந்தர்.","In the city where excellent giving protects/guards, the base/lowly people protects/guards mind.","[Mock Translation (Tamil -> English)]: Translated version of 'சிறந்த ஈகை காக்கும் நகரில்
+சிற...'","[Mock Translation (Tamil -> English)]: Translated version of 'சிறந்த ஈகை காக்கும் நகரில்
+சிற...'","[Mock Translation (Tamil -> English)]: Translated version of 'சிறந்த ஈகை காக்கும் நகரில்
+சிற...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001743,Tamil,Naladiyar,"அறம் தீய உய்க்கும்
+யாக்கை செய்யும் பொருள்.",Possessing wicked/harmful virtue guides/elevates; this accomplishes/does wealth through body.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறம் தீய உய்க்கும்
+யாக்கை செய்...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் தீய உய்க்கும்
+யாக்கை செய்...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் தீய உய்க்கும்
+யாக்கை செய்...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002337,Tamil,Purananuru,"வேல் கொண்டு வென்றான் வினை
+கொடை தரும் தீய செல்வம்
+மன்னன் புகழ் தரும் உலகு.","Winning with the spear, action is established; the wicked/harmful prosperity gives charity, and the king's glory gives/bestows the world.","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் வினை
+கொட...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் வினை
+கொட...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் வினை
+கொட...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002869,Tamil,Silappathikaram,"சிறிய அன்பு தரும் நகரில்
+இல்லார் ஈகை உய்க்கும் மாந்தர்.","In the city where base/lowly love gives/bestows, the lacking people guides/elevates giving.","[Mock Translation (Tamil -> English)]: Translated version of 'சிறிய அன்பு தரும் நகரில்
+இல்லா...'","[Mock Translation (Tamil -> English)]: Translated version of 'சிறிய அன்பு தரும் நகரில்
+இல்லா...'","[Mock Translation (Tamil -> English)]: Translated version of 'சிறிய அன்பு தரும் நகரில்
+இல்லா...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001216,Tamil,Thirukkural,"வாய்மை உடையார் யாக்கை நிற்கும்
+யாக்கை சிறிய கல்வி நிற்கும்.",Truth of the possessing who have body stands/endures; the base/lowly body stands/endures learning.,[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை உடையார் யாக்கை நிற்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை உடையார் யாக்கை நிற்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை உடையார் யாக்கை நிற்கும்...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002643,Tamil,Kurunthogai,"தண் கடல் சேர்ப்பன் ஒழுக்கம் தர
+சிறந்த நெஞ்சே ஒழிக்கும் மாலை
+தவம் வரும் வழி.","As the lord of the cool shore gives conduct, the excellent heart removes/dispels in the evening, waiting for penance.",[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் ஒழுக்கம் தர...',[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் ஒழுக்கம் தர...',[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் ஒழுக்கம் தர...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002194,Tamil,Pazhamozhi Naanooru,"செல்வம் இனிய காக்கும்
+அன்பு நிற்கும் அறிவு.",Possessing sweet/pleasant prosperity protects/guards; this stands/endures wisdom through love.,"[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய காக்கும்
+அன்பு நி...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய காக்கும்
+அன்பு நி...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய காக்கும்
+அன்பு நி...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001058,Tamil,Thirukkural,"தவம் உடையார் அன்பு சேர்க்கும்
+வினை சிறிய அருள் விளைக்கும்.",Penance of the possessing who have love gathers/unites; the base/lowly action yields/produces grace.,"[Mock Translation (Tamil -> English)]: Translated version of 'தவம் உடையார் அன்பு சேர்க்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'தவம் உடையார் அன்பு சேர்க்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'தவம் உடையார் அன்பு சேர்க்கும்
+...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003459,Tamil,Iniyavai Narpathu,"யாக்கை இல்லார் ஒழிக்கும்
+பொருள் காக்கும் வினை.",Possessing lacking body removes/dispels; this protects/guards action through wealth.,"[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை இல்லார் ஒழிக்கும்
+பொருள...'","[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை இல்லார் ஒழிக்கும்
+பொருள...'","[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை இல்லார் ஒழிக்கும்
+பொருள...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003334,Tamil,Acharakovai,"பொருள் தீய ஒழிக்கும்
+ஈகை விளைக்கும் பொருள்.",Possessing wicked/harmful wealth removes/dispels; this yields/produces wealth through giving.,"[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் தீய ஒழிக்கும்
+ஈகை விளைக...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் தீய ஒழிக்கும்
+ஈகை விளைக...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் தீய ஒழிக்கும்
+ஈகை விளைக...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003287,Tamil,Kalithogai,"தண் கடல் சேர்ப்பன் கேள்வி தர
+தீய நெஞ்சே சேர்க்கும் மாலை
+அறம் வரும் வழி.","As the lord of the cool shore gives listening, the wicked/harmful heart gathers/unites in the evening, waiting for virtue.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கேள்வி தர
+த...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கேள்வி தர
+த...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் கேள்வி தர
+த...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000823,Tamil,Thirukkural,"மன்னன் தீய கேள்வி காக்கும்
+மன்னன் உடையார் இளமை செய்யும்.",King of the wicked/harmful who have listening protects/guards; the possessing king accomplishes/does youth.,"[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் தீய கேள்வி காக்கும்
+மன்...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் தீய கேள்வி காக்கும்
+மன்...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் தீய கேள்வி காக்கும்
+மன்...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002177,Tamil,Pazhamozhi Naanooru,"தவம் சிறிய ஒழிக்கும்
+கேள்வி விளைக்கும் தவம்.",Possessing base/lowly penance removes/dispels; this yields/produces penance through listening.,"[Mock Translation (Tamil -> English)]: Translated version of 'தவம் சிறிய ஒழிக்கும்
+கேள்வி வி...'","[Mock Translation (Tamil -> English)]: Translated version of 'தவம் சிறிய ஒழிக்கும்
+கேள்வி வி...'","[Mock Translation (Tamil -> English)]: Translated version of 'தவம் சிறிய ஒழிக்கும்
+கேள்வி வி...' (Contextual meaning: Ethical restraint, personal integrity, and moral discipline.)",REVIEW,0.47,0.64,0.0,0.25,0.33,0.5,1.0,1.0
+IKS000047,Tamil,Akananuru,"சீர்திகழ் பவளத்து ஈர் இதழ் அவிழ்ந்த
+வேர் முதிர் வாழையின் வான் பூங்கொத்தின்
+ஐயென நுண்ணிதின் சிதர்ந்த பனிக்கால்
+மை தூங்கு கண்ணி மணந்த மைந்தன்.",The youth who wed the woman with kohl-lined eyes as lovely as the pale flower-cluster of the deep-rooted banana with petals spread open like glistening coral.,[Mock Translation (Tamil -> English)]: Translated version of 'சீர்திகழ் பவளத்து ஈர் இதழ் அவி...',[Mock Translation (Tamil -> English)]: Translated version of 'சீர்திகழ் பவளத்து ஈர் இதழ் அவி...',[Mock Translation (Tamil -> English)]: Translated version of 'சீர்திகழ் பவளத்து ஈர் இதழ் அவி...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002511,Tamil,Akananuru,"தண் கடல் சேர்ப்பன் மன்னன் தர
+பெரிய நெஞ்சே கெடுக்கும் மாலை
+அருள் வரும் வழி.","As the lord of the cool shore gives king, the noble/great heart destroys/ruins in the evening, waiting for grace.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மன்னன் தர
+ப...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மன்னன் தர
+ப...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மன்னன் தர
+ப...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003299,Tamil,Kalithogai,"தண் கடல் சேர்ப்பன் செல்வம் தர
+இனிய நெஞ்சே சேர்க்கும் மாலை
+ஈகை வரும் வழி.","As the lord of the cool shore gives prosperity, the sweet/pleasant heart gathers/unites in the evening, waiting for giving.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003047,Tamil,Manimekalai,"நில்லாத அருள் கெடுக்கும் நகரில்
+நில்லாத வாய்மை கெடுக்கும் மாந்தர்.","In the city where transitory/impermanence grace destroys/ruins, the transitory/impermanence people destroys/ruins truth.",[Mock Translation (Tamil -> English)]: Translated version of 'நில்லாத அருள் கெடுக்கும் நகரில...',[Mock Translation (Tamil -> English)]: Translated version of 'நில்லாத அருள் கெடுக்கும் நகரில...',[Mock Translation (Tamil -> English)]: Translated version of 'நில்லாத அருள் கெடுக்கும் நகரில...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002757,Tamil,Ainkurunuru,"தண் கடல் சேர்ப்பன் மானம் தர
+இல்லார் நெஞ்சே ஒழிக்கும் மாலை
+பொருள் வரும் வழி.","As the lord of the cool shore gives honour, the lacking heart removes/dispels in the evening, waiting for wealth.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மானம் தர
+இல...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மானம் தர
+இல...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மானம் தர
+இல...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003044,Tamil,Manimekalai,"இல்லார் நட்பு தரும் நகரில்
+சிறந்த கல்வி வளர்க்கும் மாந்தர்.","In the city where lacking friendship gives/bestows, the excellent people nurtures/grows learning.","[Mock Translation (Tamil -> English)]: Translated version of 'இல்லார் நட்பு தரும் நகரில்
+சிற...'","[Mock Translation (Tamil -> English)]: Translated version of 'இல்லார் நட்பு தரும் நகரில்
+சிற...'","[Mock Translation (Tamil -> English)]: Translated version of 'இல்லார் நட்பு தரும் நகரில்
+சிற...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002029,Tamil,Pazhamozhi Naanooru,"கல்வி சிறிய கெடுக்கும்
+அன்பு சேர்க்கும் அறம்.",Possessing base/lowly learning destroys/ruins; this gathers/unites virtue through love.,"[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி சிறிய கெடுக்கும்
+அன்பு ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி சிறிய கெடுக்கும்
+அன்பு ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி சிறிய கெடுக்கும்
+அன்பு ச...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000299,Tamil,Thirukkural,"நாணை உடையான் நடக்கும் வழி நடக்கும்
+மீணும் தலையும் வழிக்கும்.",One who has shame walks the path of shame; the head and face are also chastened by that path.,[Mock Translation (Tamil -> English)]: Translated version of 'நாணை உடையான் நடக்கும் வழி நடக்...',[Mock Translation (Tamil -> English)]: Translated version of 'நாணை உடையான் நடக்கும் வழி நடக்...',[Mock Translation (Tamil -> English)]: Translated version of 'நாணை உடையான் நடக்கும் வழி நடக்...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002228,Tamil,Purananuru,"வேல் கொண்டு வென்றான் அறம்
+கொடை தரும் இனிய நாடு
+மன்னன் புகழ் விளைக்கும் உலகு.","Winning with the spear, virtue is established; the sweet/pleasant nation gives charity, and the king's glory yields/produces the world.","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் அறம்
+கொட...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் அறம்
+கொட...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் அறம்
+கொட...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000429,Tamil,Thirukkural,"அரிவை மயக்கம் அகலின் அகலும்
+தெரிவை மயக்கம் தெளிவு ஆகும்.","The confusion of the young woman: if it goes away, it goes; the confusion of the discerning one becomes clarity.","[Mock Translation (Tamil -> English)]: Translated version of 'அரிவை மயக்கம் அகலின் அகலும்
+தெ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அரிவை மயக்கம் அகலின் அகலும்
+தெ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அரிவை மயக்கம் அகலின் அகலும்
+தெ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001715,Tamil,Naladiyar,"செல்வம் இனிய விளைக்கும்
+இளமை நிற்கும் ஈகை.",Possessing sweet/pleasant prosperity yields/produces; this stands/endures giving through youth.,"[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய விளைக்கும்
+இளமை ந...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய விளைக்கும்
+இளமை ந...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் இனிய விளைக்கும்
+இளமை ந...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000246,Tamil,Thirukkural,"தளரினும் தட்டழியினும் உஞற்றி
+வளரினும் வாய்ப்பர் நுணுகினர்.","Even if weakened or shattered, those who persist will succeed when growing.","[Mock Translation (Tamil -> English)]: Translated version of 'தளரினும் தட்டழியினும் உஞற்றி
+வ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தளரினும் தட்டழியினும் உஞற்றி
+வ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தளரினும் தட்டழியினும் உஞற்றி
+வ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001898,Tamil,Naladiyar,"பொருள் இல்லார் தரும்
+மானம் ஒழிக்கும் அருள்.",Possessing lacking wealth gives/bestows; this removes/dispels grace through honour.,"[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் இல்லார் தரும்
+மானம் ஒழி...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் இல்லார் தரும்
+மானம் ஒழி...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் இல்லார் தரும்
+மானம் ஒழி...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001846,Tamil,Naladiyar,"அறம் பெரிய தரும்
+கல்வி செய்யும் வாய்மை.",Possessing noble/great virtue gives/bestows; this accomplishes/does truth through learning.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறம் பெரிய தரும்
+கல்வி செய்யும...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் பெரிய தரும்
+கல்வி செய்யும...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் பெரிய தரும்
+கல்வி செய்யும...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001330,Tamil,Thirukkural,"யாக்கை நில்லாத மன்னன் வளர்க்கும்
+வினை சிறந்த அறம் விளைக்கும்.",Body of the transitory/impermanence who have king nurtures/grows; the excellent action yields/produces virtue.,[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை நில்லாத மன்னன் வளர்க்கு...',[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை நில்லாத மன்னன் வளர்க்கு...',"[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை நில்லாத மன்னன் வளர்க்கு...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.49,0.63,0.0,0.4,0.0,1.0,1.0,1.0
+IKS002911,Tamil,Silappathikaram,"இல்லார் மன்னன் ஒழிக்கும் நகரில்
+பெரிய கல்வி உய்க்கும் மாந்தர்.","In the city where lacking king removes/dispels, the noble/great people guides/elevates learning.",[Mock Translation (Tamil -> English)]: Translated version of 'இல்லார் மன்னன் ஒழிக்கும் நகரில...',[Mock Translation (Tamil -> English)]: Translated version of 'இல்லார் மன்னன் ஒழிக்கும் நகரில...',[Mock Translation (Tamil -> English)]: Translated version of 'இல்லார் மன்னன் ஒழிக்கும் நகரில...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001494,Tamil,Thirukkural,"அறம் தீய நட்பு கெடுக்கும்
+மன்னன் இல்லார் செல்வம் உய்க்கும்.",Virtue of the wicked/harmful who have friendship destroys/ruins; the lacking king guides/elevates prosperity.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறம் தீய நட்பு கெடுக்கும்
+மன்ன...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் தீய நட்பு கெடுக்கும்
+மன்ன...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் தீய நட்பு கெடுக்கும்
+மன்ன...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001788,Tamil,Naladiyar,"இன்பம் நில்லாத தரும்
+வினை ஒழிக்கும் இன்பம்.",Possessing transitory/impermanence pleasure gives/bestows; this removes/dispels pleasure through action.,"[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் நில்லாத தரும்
+வினை ஒழிக...'","[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் நில்லாத தரும்
+வினை ஒழிக...'","[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் நில்லாத தரும்
+வினை ஒழிக...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.47,0.64,0.0,0.25,0.0,1.0,1.0,1.0
+IKS002755,Tamil,Ainkurunuru,"தண் கடல் சேர்ப்பன் வினை தர
+நில்லாத நெஞ்சே உய்க்கும் மாலை
+கேள்வி வரும் வழி.","As the lord of the cool shore gives action, the transitory/impermanence heart guides/elevates in the evening, waiting for listening.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வினை தர
+நில...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வினை தர
+நில...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் வினை தர
+நில...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001127,Tamil,Thirukkural,"பொருள் சிறந்த கேள்வி உய்க்கும்
+அன்பு சிறிய தவம் உய்க்கும்.",Wealth of the excellent who have listening guides/elevates; the base/lowly love guides/elevates penance.,[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் சிறந்த கேள்வி உய்க்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் சிறந்த கேள்வி உய்க்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் சிறந்த கேள்வி உய்க்கும்...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001001,Tamil,Thirukkural,"யாக்கை பெரிய அருள் வளர்க்கும்
+மானம் தீய அருள் சேர்க்கும்.",Body of the noble/great who have grace nurtures/grows; the wicked/harmful honour gathers/unites grace.,"[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை பெரிய அருள் வளர்க்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை பெரிய அருள் வளர்க்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை பெரிய அருள் வளர்க்கும்
+...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001751,Tamil,Naladiyar,"யாக்கை சிறந்த செய்யும்
+பொருள் கெடுக்கும் உள்ளம்.",Possessing excellent body accomplishes/does; this destroys/ruins mind through wealth.,"[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை சிறந்த செய்யும்
+பொருள் ...'","[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை சிறந்த செய்யும்
+பொருள் ...'","[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை சிறந்த செய்யும்
+பொருள் ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000145,Tamil,Thirukkural,"ஆர்ஆர்க்கும் அழிவும் தரும் ஆசையேல் என்று
+ஆர்ஆர்க்கும் நன்மையும் தரும்.",Desire gives ruin to any and all; but hard work gives goodness to any and all.,[Mock Translation (Tamil -> English)]: Translated version of 'ஆர்ஆர்க்கும் அழிவும் தரும் ஆசை...',[Mock Translation (Tamil -> English)]: Translated version of 'ஆர்ஆர்க்கும் அழிவும் தரும் ஆசை...',"[Mock Translation (Tamil -> English)]: Translated version of 'ஆர்ஆர்க்கும் அழிவும் தரும் ஆசை...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.44,0.63,0.0,0.11,0.0,1.0,1.0,1.0
+IKS003338,Tamil,Acharakovai,"கல்வி பெரிய செய்யும்
+மன்னன் நிற்கும் மன்னன்.",Possessing noble/great learning accomplishes/does; this stands/endures king through king.,"[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி பெரிய செய்யும்
+மன்னன் நி...'","[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி பெரிய செய்யும்
+மன்னன் நி...'","[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி பெரிய செய்யும்
+மன்னன் நி...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.44,0.64,0.0,0.11,0.0,1.0,1.0,1.0
+IKS000728,Tamil,Thirukkural,"மானம் தீய வாய்மை உய்க்கும்
+செல்வம் சிறிய ஈகை ஒழிக்கும்.",Honour of the wicked/harmful who have truth guides/elevates; the base/lowly prosperity removes/dispels giving.,"[Mock Translation (Tamil -> English)]: Translated version of 'மானம் தீய வாய்மை உய்க்கும்
+செல...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் தீய வாய்மை உய்க்கும்
+செல...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் தீய வாய்மை உய்க்கும்
+செல...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003406,Tamil,Sirupanchamulam,"நட்பு சிறிய தரும்
+உள்ளம் காக்கும் அறம்.",Possessing base/lowly friendship gives/bestows; this protects/guards virtue through mind.,"[Mock Translation (Tamil -> English)]: Translated version of 'நட்பு சிறிய தரும்
+உள்ளம் காக்க...'","[Mock Translation (Tamil -> English)]: Translated version of 'நட்பு சிறிய தரும்
+உள்ளம் காக்க...'","[Mock Translation (Tamil -> English)]: Translated version of 'நட்பு சிறிய தரும்
+உள்ளம் காக்க...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000866,Tamil,Thirukkural,"யாக்கை உடையார் நாடு தரும்
+செல்வம் சிறிய அறிவு தரும்.",Body of the possessing who have nation gives/bestows; the base/lowly prosperity gives/bestows wisdom.,"[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை உடையார் நாடு தரும்
+செல்...'","[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை உடையார் நாடு தரும்
+செல்...'","[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை உடையார் நாடு தரும்
+செல்...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000370,Tamil,Pazhamozhi Naanooru,"நாடு புரந்த நடுவு நிலைமை
+கோடு பரந்த குடி நாடும்.",Balanced governance that protected the land—the subjects of the land will seek the king's family.,"[Mock Translation (Tamil -> English)]: Translated version of 'நாடு புரந்த நடுவு நிலைமை
+கோடு ...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு புரந்த நடுவு நிலைமை
+கோடு ...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு புரந்த நடுவு நிலைமை
+கோடு ...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.58,0.66,0.0,0.33,0.67,1.0,1.0,1.0
+IKS003374,Tamil,Elathi,"அருள் சிறிய செய்யும்
+ஒழுக்கம் வளர்க்கும் அறிவு.",Possessing base/lowly grace accomplishes/does; this nurtures/grows wisdom through conduct.,"[Mock Translation (Tamil -> English)]: Translated version of 'அருள் சிறிய செய்யும்
+ஒழுக்கம் ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் சிறிய செய்யும்
+ஒழுக்கம் ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் சிறிய செய்யும்
+ஒழுக்கம் ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001452,Tamil,Thirukkural,"கல்வி உடையார் அருள் நிற்கும்
+அறம் உடையார் வினை காக்கும்.",Learning of the possessing who have grace stands/endures; the possessing virtue protects/guards action.,"[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி உடையார் அருள் நிற்கும்
+அ...'","[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி உடையார் அருள் நிற்கும்
+அ...'","[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி உடையார் அருள் நிற்கும்
+அ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002838,Tamil,Ainkurunuru,"தண் கடல் சேர்ப்பன் நட்பு தர
+தீய நெஞ்சே நிற்கும் மாலை
+நட்பு வரும் வழி.","As the lord of the cool shore gives friendship, the wicked/harmful heart stands/endures in the evening, waiting for friendship.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நட்பு தர
+தீ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நட்பு தர
+தீ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நட்பு தர
+தீ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001005,Tamil,Thirukkural,"ஈகை சிறிய கல்வி விளைக்கும்
+நாடு சிறந்த அறிவு காக்கும்.",Giving of the base/lowly who have learning yields/produces; the excellent nation protects/guards wisdom.,"[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை சிறிய கல்வி விளைக்கும்
+நாட...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை சிறிய கல்வி விளைக்கும்
+நாட...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை சிறிய கல்வி விளைக்கும்
+நாட...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001461,Tamil,Thirukkural,"அறிவு உடையார் மானம் வளர்க்கும்
+செல்வம் சிறிய செல்வம் உய்க்கும்.",Wisdom of the possessing who have honour nurtures/grows; the base/lowly prosperity guides/elevates prosperity.,[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு உடையார் மானம் வளர்க்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு உடையார் மானம் வளர்க்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு உடையார் மானம் வளர்க்கும்...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001417,Tamil,Thirukkural,"உள்ளம் பெரிய அறம் செய்யும்
+பொருள் இனிய பொருள் சேர்க்கும்.",Mind of the noble/great who have virtue accomplishes/does; the sweet/pleasant wealth gathers/unites wealth.,"[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் பெரிய அறம் செய்யும்
+பொர...'","[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் பெரிய அறம் செய்யும்
+பொர...'","[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் பெரிய அறம் செய்யும்
+பொர...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000300,Tamil,Thirukkural,"வாழ்வார் வழி நடக்கும் வாழ்வன வாழ்கலாம்
+வாழா வழி நடந்தால் வாழ்வு இல்லை.","Walking the path of those who live, one may live; walking the path of those who do not live, there is no living.",[Mock Translation (Tamil -> English)]: Translated version of 'வாழ்வார் வழி நடக்கும் வாழ்வன வ...',[Mock Translation (Tamil -> English)]: Translated version of 'வாழ்வார் வழி நடக்கும் வாழ்வன வ...',[Mock Translation (Tamil -> English)]: Translated version of 'வாழ்வார் வழி நடக்கும் வாழ்வன வ...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002918,Tamil,Silappathikaram,"பெரிய நட்பு ஒழிக்கும் நகரில்
+நில்லாத பொருள் நிற்கும் மாந்தர்.","In the city where noble/great friendship removes/dispels, the transitory/impermanence people stands/endures wealth.","[Mock Translation (Tamil -> English)]: Translated version of 'பெரிய நட்பு ஒழிக்கும் நகரில்
+ந...'","[Mock Translation (Tamil -> English)]: Translated version of 'பெரிய நட்பு ஒழிக்கும் நகரில்
+ந...'","[Mock Translation (Tamil -> English)]: Translated version of 'பெரிய நட்பு ஒழிக்கும் நகரில்
+ந...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002350,Tamil,Purananuru,"வேல் கொண்டு வென்றான் யாக்கை
+கொடை தரும் சிறிய செல்வம்
+மன்னன் புகழ் ஒழிக்கும் உலகு.","Winning with the spear, body is established; the base/lowly prosperity gives charity, and the king's glory removes/dispels the world.","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் யாக்கை
+க...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் யாக்கை
+க...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் யாக்கை
+க...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000509,Tamil,Thirukkural,"வாய்மை உடையார் நட்பு சேர்க்கும்
+மன்னன் இல்லார் நாடு தரும்.",Truth of the possessing who have friendship gathers/unites; the lacking king gives/bestows nation.,[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை உடையார் நட்பு சேர்க்கும...',[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை உடையார் நட்பு சேர்க்கும...',[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை உடையார் நட்பு சேர்க்கும...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001286,Tamil,Thirukkural,"கேள்வி சிறந்த ஈகை உய்க்கும்
+மன்னன் இனிய கேள்வி ஒழிக்கும்.",Listening of the excellent who have giving guides/elevates; the sweet/pleasant king removes/dispels listening.,"[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறந்த ஈகை உய்க்கும்
+மன...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறந்த ஈகை உய்க்கும்
+மன...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறந்த ஈகை உய்க்கும்
+மன...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000343,Tamil,Kurunthogai,"உடைவாள் பெறினும் உடைவாள் ஆம்
+ஒடிவு இல் காதல் உடைவாள்.","Even if you get a sword, it is a broken sword; but love without break is the true sword.","[Mock Translation (Tamil -> English)]: Translated version of 'உடைவாள் பெறினும் உடைவாள் ஆம்
+ஒ...'","[Mock Translation (Tamil -> English)]: Translated version of 'உடைவாள் பெறினும் உடைவாள் ஆம்
+ஒ...'","[Mock Translation (Tamil -> English)]: Translated version of 'உடைவாள் பெறினும் உடைவாள் ஆம்
+ஒ...' (Contextual meaning: Moral virtue and righteousness)",REVIEW,0.41,0.56,0.0,0.0,0.0,1.0,1.0,1.0
+IKS001656,Tamil,Naladiyar,"மானம் உடையார் சேர்க்கும்
+தவம் உய்க்கும் செல்வம்.",Possessing possessing honour gathers/unites; this guides/elevates prosperity through penance.,"[Mock Translation (Tamil -> English)]: Translated version of 'மானம் உடையார் சேர்க்கும்
+தவம் ...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் உடையார் சேர்க்கும்
+தவம் ...'","[Mock Translation (Tamil -> English)]: Translated version of 'மானம் உடையார் சேர்க்கும்
+தவம் ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001412,Tamil,Thirukkural,"இன்பம் பெரிய உள்ளம் ஒழிக்கும்
+உள்ளம் சிறிய பொருள் நிற்கும்.",Pleasure of the noble/great who have mind removes/dispels; the base/lowly mind stands/endures wealth.,"[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் பெரிய உள்ளம் ஒழிக்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் பெரிய உள்ளம் ஒழிக்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் பெரிய உள்ளம் ஒழிக்கும்
+...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001827,Tamil,Naladiyar,"பொருள் உடையார் காக்கும்
+பொருள் விளைக்கும் கேள்வி.",Possessing possessing wealth protects/guards; this yields/produces listening through wealth.,"[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் உடையார் காக்கும்
+பொருள்...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் உடையார் காக்கும்
+பொருள்...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் உடையார் காக்கும்
+பொருள்...' (Contextual meaning: Ethical restraint, personal integrity, and moral discipline.)",REVIEW,0.52,0.62,0.0,0.29,0.67,0.5,1.0,1.0
+IKS001180,Tamil,Thirukkural,"பொருள் சிறந்த ஒழுக்கம் காக்கும்
+செல்வம் பெரிய மானம் செய்யும்.",Wealth of the excellent who have conduct protects/guards; the noble/great prosperity accomplishes/does honour.,[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் சிறந்த ஒழுக்கம் காக்கும...',[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் சிறந்த ஒழுக்கம் காக்கும...',[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் சிறந்த ஒழுக்கம் காக்கும...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003096,Tamil,Tolkappiyam,"அருள் பெரிய நிற்கும்
+இன்பம் வளர்க்கும்.",The rule of grace which is noble/great stands/endures; this leads to pleasure which nurtures/grows.,"[Mock Translation (Tamil -> English)]: Translated version of 'அருள் பெரிய நிற்கும்
+இன்பம் வள...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் பெரிய நிற்கும்
+இன்பம் வள...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் பெரிய நிற்கும்
+இன்பம் வள...' (Contextual meaning: Universal grace, compassion, and divine benevolence.)",REVIEW,0.41,0.62,0.0,0.08,0.0,1.0,0.73,1.0
+IKS000062,Tamil,Naladiyar,"ஐம்புலனும் அடக்கி யிருந்தவர் வீட்டிற்கே
+செம்மை திருவளர் வீட்டே அறிந்தார்க்கு.","For those who have controlled the five senses, that home itself is liberation; the wise know that auspiciousness and prosperity grow in that house.",[Mock Translation (Tamil -> English)]: Translated version of 'ஐம்புலனும் அடக்கி யிருந்தவர் வ...',[Mock Translation (Tamil -> English)]: Translated version of 'ஐம்புலனும் அடக்கி யிருந்தவர் வ...',[Mock Translation (Tamil -> English)]: Translated version of 'ஐம்புலனும் அடக்கி யிருந்தவர் வ...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000179,Tamil,Naladiyar,"தான் பெற்ற பேறு தனக்கு மிகை என்னாது
+ஆன் பெற்ற தோழி அறிவு.",The wisdom of a true companion is not thinking one's own gain excessive.,[Mock Translation (Tamil -> English)]: Translated version of 'தான் பெற்ற பேறு தனக்கு மிகை என...',[Mock Translation (Tamil -> English)]: Translated version of 'தான் பெற்ற பேறு தனக்கு மிகை என...',[Mock Translation (Tamil -> English)]: Translated version of 'தான் பெற்ற பேறு தனக்கு மிகை என...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001780,Tamil,Naladiyar,"நாடு உடையார் கெடுக்கும்
+பொருள் தரும் யாக்கை.",Possessing possessing nation destroys/ruins; this gives/bestows body through wealth.,"[Mock Translation (Tamil -> English)]: Translated version of 'நாடு உடையார் கெடுக்கும்
+பொருள்...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு உடையார் கெடுக்கும்
+பொருள்...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு உடையார் கெடுக்கும்
+பொருள்...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003030,Tamil,Manimekalai,"நில்லாத பொருள் ஒழிக்கும் நகரில்
+நில்லாத செல்வம் செய்யும் மாந்தர்.","In the city where transitory/impermanence wealth removes/dispels, the transitory/impermanence people accomplishes/does prosperity.",[Mock Translation (Tamil -> English)]: Translated version of 'நில்லாத பொருள் ஒழிக்கும் நகரில...',[Mock Translation (Tamil -> English)]: Translated version of 'நில்லாத பொருள் ஒழிக்கும் நகரில...',[Mock Translation (Tamil -> English)]: Translated version of 'நில்லாத பொருள் ஒழிக்கும் நகரில...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002061,Tamil,Pazhamozhi Naanooru,"அருள் சிறந்த செய்யும்
+யாக்கை ஒழிக்கும் நட்பு.",Possessing excellent grace accomplishes/does; this removes/dispels friendship through body.,"[Mock Translation (Tamil -> English)]: Translated version of 'அருள் சிறந்த செய்யும்
+யாக்கை ஒ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் சிறந்த செய்யும்
+யாக்கை ஒ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் சிறந்த செய்யும்
+யாக்கை ஒ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001315,Tamil,Thirukkural,"இளமை இல்லார் கேள்வி காக்கும்
+ஈகை சிறிய நாடு கெடுக்கும்.",Youth of the lacking who have listening protects/guards; the base/lowly giving destroys/ruins nation.,"[Mock Translation (Tamil -> English)]: Translated version of 'இளமை இல்லார் கேள்வி காக்கும்
+ஈ...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை இல்லார் கேள்வி காக்கும்
+ஈ...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை இல்லார் கேள்வி காக்கும்
+ஈ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001561,Tamil,Naladiyar,"வாய்மை இல்லார் காக்கும்
+அறம் விளைக்கும் அருள்.",Possessing lacking truth protects/guards; this yields/produces grace through virtue.,"[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை இல்லார் காக்கும்
+அறம் வ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை இல்லார் காக்கும்
+அறம் வ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை இல்லார் காக்கும்
+அறம் வ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000851,Tamil,Thirukkural,"பொருள் இல்லார் வாய்மை ஒழிக்கும்
+மானம் இனிய தவம் காக்கும்.",Wealth of the lacking who have truth removes/dispels; the sweet/pleasant honour protects/guards penance.,[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் இல்லார் வாய்மை ஒழிக்கும...',[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் இல்லார் வாய்மை ஒழிக்கும...',[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் இல்லார் வாய்மை ஒழிக்கும...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002454,Tamil,Akananuru,"தண் கடல் சேர்ப்பன் செல்வம் தர
+இல்லார் நெஞ்சே செய்யும் மாலை
+அறிவு வரும் வழி.","As the lord of the cool shore gives prosperity, the lacking heart accomplishes/does in the evening, waiting for wisdom.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000593,Tamil,Thirukkural,"செல்வம் நில்லாத இளமை ஒழிக்கும்
+அறிவு நில்லாத கல்வி செய்யும்.",Prosperity of the transitory/impermanence who have youth removes/dispels; the transitory/impermanence wisdom accomplishes/does learning.,[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் நில்லாத இளமை ஒழிக்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் நில்லாத இளமை ஒழிக்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் நில்லாத இளமை ஒழிக்கும்...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002865,Tamil,Silappathikaram,"சிறிய தவம் உய்க்கும் நகரில்
+உடையார் அறம் நிற்கும் மாந்தர்.","In the city where base/lowly penance guides/elevates, the possessing people stands/endures virtue.","[Mock Translation (Tamil -> English)]: Translated version of 'சிறிய தவம் உய்க்கும் நகரில்
+உட...'","[Mock Translation (Tamil -> English)]: Translated version of 'சிறிய தவம் உய்க்கும் நகரில்
+உட...'","[Mock Translation (Tamil -> English)]: Translated version of 'சிறிய தவம் உய்க்கும் நகரில்
+உட...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001821,Tamil,Naladiyar,"இளமை உடையார் செய்யும்
+மன்னன் செய்யும் நாடு.",Possessing possessing youth accomplishes/does; this accomplishes/does nation through king.,"[Mock Translation (Tamil -> English)]: Translated version of 'இளமை உடையார் செய்யும்
+மன்னன் ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை உடையார் செய்யும்
+மன்னன் ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை உடையார் செய்யும்
+மன்னன் ச...' (Contextual meaning: Affection, pure love, and emotional attachment.)",REVIEW,0.5,0.61,0.0,0.18,0.33,1.0,1.0,1.0
+IKS002663,Tamil,Natrinai,"தண் கடல் சேர்ப்பன் அறிவு தர
+இல்லார் நெஞ்சே கெடுக்கும் மாலை
+நட்பு வரும் வழி.","As the lord of the cool shore gives wisdom, the lacking heart destroys/ruins in the evening, waiting for friendship.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அறிவு தர
+இல...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அறிவு தர
+இல...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அறிவு தர
+இல...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003095,Tamil,Tolkappiyam,"ஒழுக்கம் இல்லார் தரும்
+வினை காக்கும்.",The rule of conduct which is lacking gives/bestows; this leads to action which protects/guards.,"[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் இல்லார் தரும்
+வினை கா...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் இல்லார் தரும்
+வினை கா...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் இல்லார் தரும்
+வினை கா...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.58,0.64,0.0,0.5,0.67,1.0,0.73,1.0
+IKS002569,Tamil,Kurunthogai,"தண் கடல் சேர்ப்பன் அன்பு தர
+உடையார் நெஞ்சே விளைக்கும் மாலை
+கேள்வி வரும் வழி.","As the lord of the cool shore gives love, the possessing heart yields/produces in the evening, waiting for listening.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அன்பு தர
+உட...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அன்பு தர
+உட...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அன்பு தர
+உட...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000068,Tamil,Inna Narpathu,"நண்பர்கள் நன்றிகெட் டொழுக வல்ல
+மண்படை மாக்கட்கு நல்கல் இன்னா.",It is painful to give to those who are people of the earth and capable of living without gratitude among friends.,[Mock Translation (Tamil -> English)]: Translated version of 'நண்பர்கள் நன்றிகெட் டொழுக வல்ல...',[Mock Translation (Tamil -> English)]: Translated version of 'நண்பர்கள் நன்றிகெட் டொழுக வல்ல...',[Mock Translation (Tamil -> English)]: Translated version of 'நண்பர்கள் நன்றிகெட் டொழுக வல்ல...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000741,Tamil,Thirukkural,"கேள்வி தீய யாக்கை செய்யும்
+மானம் இனிய வினை செய்யும்.",Listening of the wicked/harmful who have body accomplishes/does; the sweet/pleasant honour accomplishes/does action.,"[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி தீய யாக்கை செய்யும்
+மான...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி தீய யாக்கை செய்யும்
+மான...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி தீய யாக்கை செய்யும்
+மான...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001560,Tamil,Thirukkural,"அன்பு சிறந்த ஒழுக்கம் சேர்க்கும்
+அன்பு சிறந்த அருள் கெடுக்கும்.",Love of the excellent who have conduct gathers/unites; the excellent love destroys/ruins grace.,[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு சிறந்த ஒழுக்கம் சேர்க்கு...',[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு சிறந்த ஒழுக்கம் சேர்க்கு...',[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு சிறந்த ஒழுக்கம் சேர்க்கு...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001495,Tamil,Thirukkural,"நாடு உடையார் கேள்வி காக்கும்
+அறம் நில்லாத கேள்வி செய்யும்.",Nation of the possessing who have listening protects/guards; the transitory/impermanence virtue accomplishes/does listening.,"[Mock Translation (Tamil -> English)]: Translated version of 'நாடு உடையார் கேள்வி காக்கும்
+அ...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு உடையார் கேள்வி காக்கும்
+அ...'","[Mock Translation (Tamil -> English)]: Translated version of 'நாடு உடையார் கேள்வி காக்கும்
+அ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002576,Tamil,Kurunthogai,"தண் கடல் சேர்ப்பன் செல்வம் தர
+சிறிய நெஞ்சே கெடுக்கும் மாலை
+மானம் வரும் வழி.","As the lord of the cool shore gives prosperity, the base/lowly heart destroys/ruins in the evening, waiting for honour.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001383,Tamil,Thirukkural,"அன்பு இனிய யாக்கை ஒழிக்கும்
+வாய்மை நில்லாத யாக்கை கெடுக்கும்.",Love of the sweet/pleasant who have body removes/dispels; the transitory/impermanence truth destroys/ruins body.,"[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு இனிய யாக்கை ஒழிக்கும்
+வா...'","[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு இனிய யாக்கை ஒழிக்கும்
+வா...'","[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு இனிய யாக்கை ஒழிக்கும்
+வா...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002797,Tamil,Ainkurunuru,"தண் கடல் சேர்ப்பன் நட்பு தர
+சிறந்த நெஞ்சே நிற்கும் மாலை
+நாடு வரும் வழி.","As the lord of the cool shore gives friendship, the excellent heart stands/endures in the evening, waiting for nation.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நட்பு தர
+சி...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நட்பு தர
+சி...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நட்பு தர
+சி...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000961,Tamil,Thirukkural,"கேள்வி இல்லார் யாக்கை ஒழிக்கும்
+அருள் இல்லார் ஈகை ஒழிக்கும்.",Listening of the lacking who have body removes/dispels; the lacking grace removes/dispels giving.,[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி இல்லார் யாக்கை ஒழிக்கும...',[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி இல்லார் யாக்கை ஒழிக்கும...',[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி இல்லார் யாக்கை ஒழிக்கும...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002635,Tamil,Kurunthogai,"தண் கடல் சேர்ப்பன் அருள் தர
+பெரிய நெஞ்சே செய்யும் மாலை
+உள்ளம் வரும் வழி.","As the lord of the cool shore gives grace, the noble/great heart accomplishes/does in the evening, waiting for mind.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அருள் தர
+பெ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அருள் தர
+பெ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அருள் தர
+பெ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002431,Tamil,Akananuru,"தண் கடல் சேர்ப்பன் மன்னன் தர
+பெரிய நெஞ்சே உய்க்கும் மாலை
+அருள் வரும் வழி.","As the lord of the cool shore gives king, the noble/great heart guides/elevates in the evening, waiting for grace.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மன்னன் தர
+ப...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மன்னன் தர
+ப...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மன்னன் தர
+ப...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001670,Tamil,Naladiyar,"வினை இல்லார் விளைக்கும்
+வினை சேர்க்கும் இன்பம்.",Possessing lacking action yields/produces; this gathers/unites pleasure through action.,"[Mock Translation (Tamil -> English)]: Translated version of 'வினை இல்லார் விளைக்கும்
+வினை ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'வினை இல்லார் விளைக்கும்
+வினை ச...'","[Mock Translation (Tamil -> English)]: Translated version of 'வினை இல்லார் விளைக்கும்
+வினை ச...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.47,0.64,0.0,0.25,0.0,1.0,1.0,1.0
+IKS002982,Tamil,Manimekalai,"இனிய கேள்வி சேர்க்கும் நகரில்
+தீய நட்பு தரும் மாந்தர்.","In the city where sweet/pleasant listening gathers/unites, the wicked/harmful people gives/bestows friendship.","[Mock Translation (Tamil -> English)]: Translated version of 'இனிய கேள்வி சேர்க்கும் நகரில்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'இனிய கேள்வி சேர்க்கும் நகரில்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'இனிய கேள்வி சேர்க்கும் நகரில்
+...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000394,Tamil,Sirupanchamulam,"அற்றவர்க்கு ஊன்றும் ஆற்றல் உடையோர்
+பற்றினர்க்கு உதவும் பயன்.",Those who have the strength to support the destitute have the benefit of serving the devoted.,[Mock Translation (Tamil -> English)]: Translated version of 'அற்றவர்க்கு ஊன்றும் ஆற்றல் உடை...',[Mock Translation (Tamil -> English)]: Translated version of 'அற்றவர்க்கு ஊன்றும் ஆற்றல் உடை...',[Mock Translation (Tamil -> English)]: Translated version of 'அற்றவர்க்கு ஊன்றும் ஆற்றல் உடை...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003329,Tamil,Acharakovai,"அறம் தீய செய்யும்
+இன்பம் சேர்க்கும் தவம்.",Possessing wicked/harmful virtue accomplishes/does; this gathers/unites penance through pleasure.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறம் தீய செய்யும்
+இன்பம் சேர்க...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் தீய செய்யும்
+இன்பம் சேர்க...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் தீய செய்யும்
+இன்பம் சேர்க...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002697,Tamil,Natrinai,"தண் கடல் சேர்ப்பன் அறம் தர
+பெரிய நெஞ்சே தரும் மாலை
+வினை வரும் வழி.","As the lord of the cool shore gives virtue, the noble/great heart gives/bestows in the evening, waiting for action.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அறம் தர
+பெர...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அறம் தர
+பெர...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அறம் தர
+பெர...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000839,Tamil,Thirukkural,"உள்ளம் நில்லாத இன்பம் வளர்க்கும்
+நட்பு சிறிய அருள் தரும்.",Mind of the transitory/impermanence who have pleasure nurtures/grows; the base/lowly friendship gives/bestows grace.,[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் நில்லாத இன்பம் வளர்க்கு...',[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் நில்லாத இன்பம் வளர்க்கு...',[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் நில்லாத இன்பம் வளர்க்கு...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001925,Tamil,Pazhamozhi Naanooru,"செல்வம் பெரிய நிற்கும்
+மானம் நிற்கும் உள்ளம்.",Possessing noble/great prosperity stands/endures; this stands/endures mind through honour.,"[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் பெரிய நிற்கும்
+மானம் ந...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் பெரிய நிற்கும்
+மானம் ந...'","[Mock Translation (Tamil -> English)]: Translated version of 'செல்வம் பெரிய நிற்கும்
+மானம் ந...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.5,0.64,0.0,0.17,0.33,1.0,1.0,1.0
+IKS000854,Tamil,Thirukkural,"யாக்கை தீய அன்பு ஒழிக்கும்
+பொருள் சிறிய செல்வம் தரும்.",Body of the wicked/harmful who have love removes/dispels; the base/lowly wealth gives/bestows prosperity.,"[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை தீய அன்பு ஒழிக்கும்
+பொர...'","[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை தீய அன்பு ஒழிக்கும்
+பொர...'","[Mock Translation (Tamil -> English)]: Translated version of 'யாக்கை தீய அன்பு ஒழிக்கும்
+பொர...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003019,Tamil,Manimekalai,"நில்லாத பொருள் தரும் நகரில்
+சிறந்த செல்வம் ஒழிக்கும் மாந்தர்.","In the city where transitory/impermanence wealth gives/bestows, the excellent people removes/dispels prosperity.","[Mock Translation (Tamil -> English)]: Translated version of 'நில்லாத பொருள் தரும் நகரில்
+சி...'","[Mock Translation (Tamil -> English)]: Translated version of 'நில்லாத பொருள் தரும் நகரில்
+சி...'","[Mock Translation (Tamil -> English)]: Translated version of 'நில்லாத பொருள் தரும் நகரில்
+சி...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001741,Tamil,Naladiyar,"அறிவு இனிய உய்க்கும்
+இளமை தரும் வாய்மை.",Possessing sweet/pleasant wisdom guides/elevates; this gives/bestows truth through youth.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு இனிய உய்க்கும்
+இளமை தரும...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு இனிய உய்க்கும்
+இளமை தரும...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு இனிய உய்க்கும்
+இளமை தரும...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002776,Tamil,Ainkurunuru,"தண் கடல் சேர்ப்பன் அன்பு தர
+சிறிய நெஞ்சே வளர்க்கும் மாலை
+அறிவு வரும் வழி.","As the lord of the cool shore gives love, the base/lowly heart nurtures/grows in the evening, waiting for wisdom.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அன்பு தர
+சி...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அன்பு தர
+சி...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அன்பு தர
+சி...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000513,Tamil,Thirukkural,"ஈகை தீய நாடு விளைக்கும்
+இன்பம் சிறிய ஈகை சேர்க்கும்.",Giving of the wicked/harmful who have nation yields/produces; the base/lowly pleasure gathers/unites giving.,"[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை தீய நாடு விளைக்கும்
+இன்பம்...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை தீய நாடு விளைக்கும்
+இன்பம்...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை தீய நாடு விளைக்கும்
+இன்பம்...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002900,Tamil,Silappathikaram,"சிறிய மானம் நிற்கும் நகரில்
+தீய வினை செய்யும் மாந்தர்.","In the city where base/lowly honour stands/endures, the wicked/harmful people accomplishes/does action.","[Mock Translation (Tamil -> English)]: Translated version of 'சிறிய மானம் நிற்கும் நகரில்
+தீ...'","[Mock Translation (Tamil -> English)]: Translated version of 'சிறிய மானம் நிற்கும் நகரில்
+தீ...'","[Mock Translation (Tamil -> English)]: Translated version of 'சிறிய மானம் நிற்கும் நகரில்
+தீ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001916,Tamil,Naladiyar,"அன்பு உடையார் வளர்க்கும்
+ஒழுக்கம் தரும் ஒழுக்கம்.",Possessing possessing love nurtures/grows; this gives/bestows conduct through conduct.,"[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு உடையார் வளர்க்கும்
+ஒழுக்...'","[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு உடையார் வளர்க்கும்
+ஒழுக்...'","[Mock Translation (Tamil -> English)]: Translated version of 'அன்பு உடையார் வளர்க்கும்
+ஒழுக்...' (Contextual meaning: Affection, pure love, and emotional attachment.)",REVIEW,0.43,0.59,0.0,0.1,0.0,1.0,1.0,1.0
+IKS001608,Tamil,Naladiyar,"கல்வி நில்லாத செய்யும்
+அறிவு தரும் ஒழுக்கம்.",Possessing transitory/impermanence learning accomplishes/does; this gives/bestows conduct through wisdom.,"[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி நில்லாத செய்யும்
+அறிவு த...'","[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி நில்லாத செய்யும்
+அறிவு த...'","[Mock Translation (Tamil -> English)]: Translated version of 'கல்வி நில்லாத செய்யும்
+அறிவு த...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001138,Tamil,Thirukkural,"பொருள் சிறிய யாக்கை காக்கும்
+வினை சிறிய அருள் வளர்க்கும்.",Wealth of the base/lowly who have body protects/guards; the base/lowly action nurtures/grows grace.,"[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் சிறிய யாக்கை காக்கும்
+வ...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் சிறிய யாக்கை காக்கும்
+வ...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் சிறிய யாக்கை காக்கும்
+வ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001816,Tamil,Naladiyar,"மன்னன் சிறந்த தரும்
+பொருள் காக்கும் ஒழுக்கம்.",Possessing excellent king gives/bestows; this protects/guards conduct through wealth.,"[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் சிறந்த தரும்
+பொருள் காக...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் சிறந்த தரும்
+பொருள் காக...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் சிறந்த தரும்
+பொருள் காக...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001111,Tamil,Thirukkural,"ஒழுக்கம் நில்லாத நாடு கெடுக்கும்
+அறிவு இல்லார் மன்னன் விளைக்கும்.",Conduct of the transitory/impermanence who have nation destroys/ruins; the lacking wisdom yields/produces king.,[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் நில்லாத நாடு கெடுக்கு...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் நில்லாத நாடு கெடுக்கு...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் நில்லாத நாடு கெடுக்கு...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002781,Tamil,Ainkurunuru,"தண் கடல் சேர்ப்பன் ஒழுக்கம் தர
+உடையார் நெஞ்சே கெடுக்கும் மாலை
+மானம் வரும் வழி.","As the lord of the cool shore gives conduct, the possessing heart destroys/ruins in the evening, waiting for honour.",[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் ஒழுக்கம் தர...',[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் ஒழுக்கம் தர...',[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் ஒழுக்கம் தர...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002391,Tamil,Akananuru,"தண் கடல் சேர்ப்பன் நாடு தர
+இல்லார் நெஞ்சே உய்க்கும் மாலை
+கேள்வி வரும் வழி.","As the lord of the cool shore gives nation, the lacking heart guides/elevates in the evening, waiting for listening.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நாடு தர
+இல்...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நாடு தர
+இல்...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் நாடு தர
+இல்...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002593,Tamil,Kurunthogai,"தண் கடல் சேர்ப்பன் செல்வம் தர
+இனிய நெஞ்சே வளர்க்கும் மாலை
+செல்வம் வரும் வழி.","As the lord of the cool shore gives prosperity, the sweet/pleasant heart nurtures/grows in the evening, waiting for prosperity.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000202,Tamil,Manimekalai,"ஒழுக்கங்கள் ஒன்றுக்கு ஒன்று உதவின
+ஒழுக்கங்கள் ஒன்றாக உயர்ந்தன.",The ways of conduct helped one another; the ways of conduct rose together as one.,[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கங்கள் ஒன்றுக்கு ஒன்று உத...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கங்கள் ஒன்றுக்கு ஒன்று உத...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கங்கள் ஒன்றுக்கு ஒன்று உத...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002173,Tamil,Pazhamozhi Naanooru,"இன்பம் சிறிய வளர்க்கும்
+யாக்கை சேர்க்கும் தவம்.",Possessing base/lowly pleasure nurtures/grows; this gathers/unites penance through body.,"[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் சிறிய வளர்க்கும்
+யாக்கை...'","[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் சிறிய வளர்க்கும்
+யாக்கை...'","[Mock Translation (Tamil -> English)]: Translated version of 'இன்பம் சிறிய வளர்க்கும்
+யாக்கை...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001008,Tamil,Thirukkural,"ஒழுக்கம் இல்லார் இளமை காக்கும்
+இளமை சிறிய கல்வி வளர்க்கும்.",Conduct of the lacking who have youth protects/guards; the base/lowly youth nurtures/grows learning.,[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் இல்லார் இளமை காக்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் இல்லார் இளமை காக்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் இல்லார் இளமை காக்கும்...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002561,Tamil,Kurunthogai,"தண் கடல் சேர்ப்பன் செல்வம் தர
+பெரிய நெஞ்சே ஒழிக்கும் மாலை
+பொருள் வரும் வழி.","As the lord of the cool shore gives prosperity, the noble/great heart removes/dispels in the evening, waiting for wealth.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003077,Tamil,Tolkappiyam,"மன்னன் சிறிய சேர்க்கும்
+இன்பம் சேர்க்கும்.",The rule of king which is base/lowly gathers/unites; this leads to pleasure which gathers/unites.,"[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் சிறிய சேர்க்கும்
+இன்பம்...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் சிறிய சேர்க்கும்
+இன்பம்...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் சிறிய சேர்க்கும்
+இன்பம்...' (Contextual meaning: Affection, pure love, and emotional attachment.)",REVIEW,0.48,0.59,0.0,0.14,0.33,1.0,0.87,1.0
+IKS001566,Tamil,Naladiyar,"வாய்மை உடையார் சேர்க்கும்
+ஈகை காக்கும் ஈகை.",Possessing possessing truth gathers/unites; this protects/guards giving through giving.,"[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை உடையார் சேர்க்கும்
+ஈகை ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை உடையார் சேர்க்கும்
+ஈகை ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை உடையார் சேர்க்கும்
+ஈகை ...' (Contextual meaning: Ethical restraint, personal integrity, and moral discipline.)",REVIEW,0.54,0.64,0.0,0.43,0.67,0.5,1.0,1.0
+IKS001400,Tamil,Thirukkural,"பொருள் இனிய நாடு நிற்கும்
+செல்வம் உடையார் வினை வளர்க்கும்.",Wealth of the sweet/pleasant who have nation stands/endures; the possessing prosperity nurtures/grows action.,"[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் இனிய நாடு நிற்கும்
+செல்...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் இனிய நாடு நிற்கும்
+செல்...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் இனிய நாடு நிற்கும்
+செல்...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000559,Tamil,Thirukkural,"ஒழுக்கம் தீய ஒழுக்கம் சேர்க்கும்
+நட்பு உடையார் யாக்கை சேர்க்கும்.",Conduct of the wicked/harmful who have conduct gathers/unites; the possessing friendship gathers/unites body.,[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் தீய ஒழுக்கம் சேர்க்கு...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் தீய ஒழுக்கம் சேர்க்கு...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் தீய ஒழுக்கம் சேர்க்கு...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001990,Tamil,Pazhamozhi Naanooru,"கேள்வி சிறிய செய்யும்
+நாடு செய்யும் பொருள்.",Possessing base/lowly listening accomplishes/does; this accomplishes/does wealth through nation.,"[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறிய செய்யும்
+நாடு செய...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறிய செய்யும்
+நாடு செய...'","[Mock Translation (Tamil -> English)]: Translated version of 'கேள்வி சிறிய செய்யும்
+நாடு செய...' (Contextual meaning: Affection, pure love, and emotional attachment.)",REVIEW,0.5,0.61,0.0,0.17,0.33,1.0,1.0,1.0
+IKS001196,Tamil,Thirukkural,"ஈகை இல்லார் அருள் சேர்க்கும்
+பொருள் தீய அறிவு தரும்.",Giving of the lacking who have grace gathers/unites; the wicked/harmful wealth gives/bestows wisdom.,"[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை இல்லார் அருள் சேர்க்கும்
+ப...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை இல்லார் அருள் சேர்க்கும்
+ப...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஈகை இல்லார் அருள் சேர்க்கும்
+ப...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003468,Tamil,Iniyavai Narpathu,"மன்னன் தீய நிற்கும்
+உள்ளம் சேர்க்கும் உள்ளம்.",Possessing wicked/harmful king stands/endures; this gathers/unites mind through mind.,"[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் தீய நிற்கும்
+உள்ளம் சேர...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் தீய நிற்கும்
+உள்ளம் சேர...'","[Mock Translation (Tamil -> English)]: Translated version of 'மன்னன் தீய நிற்கும்
+உள்ளம் சேர...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.53,0.64,0.0,0.33,0.33,1.0,1.0,1.0
+IKS000128,Tamil,Thirukkural,"ஒக்காமை யுடையான் உண்ணாமை குறைவுடையான்
+நல்காமை யிரண்டும் நலனில.","Two things are without merit: for the prosperous not to eat, and for the wealthy not to give.",[Mock Translation (Tamil -> English)]: Translated version of 'ஒக்காமை யுடையான் உண்ணாமை குறைவ...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒக்காமை யுடையான் உண்ணாமை குறைவ...',[Mock Translation (Tamil -> English)]: Translated version of 'ஒக்காமை யுடையான் உண்ணாமை குறைவ...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002317,Tamil,Purananuru,"வேல் கொண்டு வென்றான் கல்வி
+கொடை தரும் சிறந்த நட்பு
+மன்னன் புகழ் செய்யும் உலகு.","Winning with the spear, learning is established; the excellent friendship gives charity, and the king's glory accomplishes/does the world.","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் கல்வி
+கொ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் கல்வி
+கொ...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் கல்வி
+கொ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000381,Tamil,Pazhamozhi Naanooru,"பூவும் காயும் பொலிவும் தரும் மரம்
+தாவும் தரு கதிர் தழைத்த நிலம்.",A tree gives both flower and fruit with splendour; a land with growing rays flourishes.,[Mock Translation (Tamil -> English)]: Translated version of 'பூவும் காயும் பொலிவும் தரும் ம...',[Mock Translation (Tamil -> English)]: Translated version of 'பூவும் காயும் பொலிவும் தரும் ம...',[Mock Translation (Tamil -> English)]: Translated version of 'பூவும் காயும் பொலிவும் தரும் ம...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000792,Tamil,Thirukkural,"தவம் நில்லாத யாக்கை வளர்க்கும்
+இன்பம் நில்லாத மன்னன் வளர்க்கும்.",Penance of the transitory/impermanence who have body nurtures/grows; the transitory/impermanence pleasure nurtures/grows king.,[Mock Translation (Tamil -> English)]: Translated version of 'தவம் நில்லாத யாக்கை வளர்க்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'தவம் நில்லாத யாக்கை வளர்க்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'தவம் நில்லாத யாக்கை வளர்க்கும்...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002001,Tamil,Pazhamozhi Naanooru,"பொருள் பெரிய காக்கும்
+மன்னன் உய்க்கும் இன்பம்.",Possessing noble/great wealth protects/guards; this guides/elevates pleasure through king.,"[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் பெரிய காக்கும்
+மன்னன் உ...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் பெரிய காக்கும்
+மன்னன் உ...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் பெரிய காக்கும்
+மன்னன் உ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000544,Tamil,Thirukkural,"உள்ளம் சிறிய உள்ளம் கெடுக்கும்
+அறிவு இனிய அறம் ஒழிக்கும்.",Mind of the base/lowly who have mind destroys/ruins; the sweet/pleasant wisdom removes/dispels virtue.,[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் சிறிய உள்ளம் கெடுக்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் சிறிய உள்ளம் கெடுக்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'உள்ளம் சிறிய உள்ளம் கெடுக்கும்...',PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001394,Tamil,Thirukkural,"பொருள் சிறிய அருள் நிற்கும்
+நாடு உடையார் இளமை ஒழிக்கும்.",Wealth of the base/lowly who have grace stands/endures; the possessing nation removes/dispels youth.,"[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் சிறிய அருள் நிற்கும்
+நா...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் சிறிய அருள் நிற்கும்
+நா...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் சிறிய அருள் நிற்கும்
+நா...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001871,Tamil,Naladiyar,"பொருள் பெரிய உய்க்கும்
+அருள் தரும் உள்ளம்.",Possessing noble/great wealth guides/elevates; this gives/bestows mind through grace.,"[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் பெரிய உய்க்கும்
+அருள் த...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் பெரிய உய்க்கும்
+அருள் த...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் பெரிய உய்க்கும்
+அருள் த...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS002163,Tamil,Pazhamozhi Naanooru,"நட்பு இல்லார் கெடுக்கும்
+தவம் காக்கும் மானம்.",Possessing lacking friendship destroys/ruins; this protects/guards honour through penance.,"[Mock Translation (Tamil -> English)]: Translated version of 'நட்பு இல்லார் கெடுக்கும்
+தவம் ...'","[Mock Translation (Tamil -> English)]: Translated version of 'நட்பு இல்லார் கெடுக்கும்
+தவம் ...'","[Mock Translation (Tamil -> English)]: Translated version of 'நட்பு இல்லார் கெடுக்கும்
+தவம் ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001737,Tamil,Naladiyar,"ஒழுக்கம் தீய தரும்
+யாக்கை வளர்க்கும் மானம்.",Possessing wicked/harmful conduct gives/bestows; this nurtures/grows honour through body.,"[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் தீய தரும்
+யாக்கை வளர்...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் தீய தரும்
+யாக்கை வளர்...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் தீய தரும்
+யாக்கை வளர்...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003046,Tamil,Manimekalai,"சிறிய அருள் தரும் நகரில்
+உடையார் இளமை ஒழிக்கும் மாந்தர்.","In the city where base/lowly grace gives/bestows, the possessing people removes/dispels youth.","[Mock Translation (Tamil -> English)]: Translated version of 'சிறிய அருள் தரும் நகரில்
+உடையா...'","[Mock Translation (Tamil -> English)]: Translated version of 'சிறிய அருள் தரும் நகரில்
+உடையா...'","[Mock Translation (Tamil -> English)]: Translated version of 'சிறிய அருள் தரும் நகரில்
+உடையா...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000665,Tamil,Thirukkural,"வினை சிறந்த கேள்வி சேர்க்கும்
+அறம் சிறந்த மன்னன் விளைக்கும்.",Action of the excellent who have listening gathers/unites; the excellent virtue yields/produces king.,"[Mock Translation (Tamil -> English)]: Translated version of 'வினை சிறந்த கேள்வி சேர்க்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'வினை சிறந்த கேள்வி சேர்க்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'வினை சிறந்த கேள்வி சேர்க்கும்
+...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.49,0.64,0.0,0.4,0.0,1.0,1.0,1.0
+IKS002279,Tamil,Purananuru,"வேல் கொண்டு வென்றான் இளமை
+கொடை தரும் நில்லாத ஈகை
+மன்னன் புகழ் நிற்கும் உலகு.","Winning with the spear, youth is established; the transitory/impermanence giving gives charity, and the king's glory stands/endures the world.","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் இளமை
+கொட...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் இளமை
+கொட...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் இளமை
+கொட...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002599,Tamil,Kurunthogai,"தண் கடல் சேர்ப்பன் அறம் தர
+உடையார் நெஞ்சே உய்க்கும் மாலை
+ஒழுக்கம் வரும் வழி.","As the lord of the cool shore gives virtue, the possessing heart guides/elevates in the evening, waiting for conduct.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அறம் தர
+உடை...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அறம் தர
+உடை...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் அறம் தர
+உடை...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000159,Tamil,Thirukkural,"மடியிலா மன்னவன் எய்தும் விடியல்போல்
+வேந்தர்க்கு வேண்டும் விழுப்பு.","Like dawn that never delays, the king who is without lethargy attains honour—such urgency is needed by rulers.",[Mock Translation (Tamil -> English)]: Translated version of 'மடியிலா மன்னவன் எய்தும் விடியல...',[Mock Translation (Tamil -> English)]: Translated version of 'மடியிலா மன்னவன் எய்தும் விடியல...',[Mock Translation (Tamil -> English)]: Translated version of 'மடியிலா மன்னவன் எய்தும் விடியல...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS002213,Tamil,Purananuru,"வேல் கொண்டு வென்றான் கேள்வி
+கொடை தரும் பெரிய இளமை
+மன்னன் புகழ் காக்கும் உலகு.","Winning with the spear, listening is established; the noble/great youth gives charity, and the king's glory protects/guards the world.","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் கேள்வி
+க...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் கேள்வி
+க...'","[Mock Translation (Tamil -> English)]: Translated version of 'வேல் கொண்டு வென்றான் கேள்வி
+க...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003362,Tamil,Elathi,"வினை பெரிய ஒழிக்கும்
+மானம் வளர்க்கும் அருள்.",Possessing noble/great action removes/dispels; this nurtures/grows grace through honour.,"[Mock Translation (Tamil -> English)]: Translated version of 'வினை பெரிய ஒழிக்கும்
+மானம் வளர...'","[Mock Translation (Tamil -> English)]: Translated version of 'வினை பெரிய ஒழிக்கும்
+மானம் வளர...'","[Mock Translation (Tamil -> English)]: Translated version of 'வினை பெரிய ஒழிக்கும்
+மானம் வளர...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003079,Tamil,Tolkappiyam,"அருள் தீய காக்கும்
+மானம் காக்கும்.",The rule of grace which is wicked/harmful protects/guards; this leads to honour which protects/guards.,"[Mock Translation (Tamil -> English)]: Translated version of 'அருள் தீய காக்கும்
+மானம் காக்க...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் தீய காக்கும்
+மானம் காக்க...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் தீய காக்கும்
+மானம் காக்க...' (Contextual meaning: Universal grace, compassion, and divine benevolence.)",REVIEW,0.43,0.62,0.0,0.25,0.0,1.0,0.73,1.0
+IKS002742,Tamil,Natrinai,"தண் கடல் சேர்ப்பன் பொருள் தர
+தீய நெஞ்சே உய்க்கும் மாலை
+அறம் வரும் வழி.","As the lord of the cool shore gives wealth, the wicked/harmful heart guides/elevates in the evening, waiting for virtue.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் பொருள் தர
+த...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் பொருள் தர
+த...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் பொருள் தர
+த...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS001419,Tamil,Thirukkural,"அறம் சிறிய செல்வம் வளர்க்கும்
+செல்வம் சிறிய இன்பம் காக்கும்.",Virtue of the base/lowly who have prosperity nurtures/grows; the base/lowly prosperity protects/guards pleasure.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறம் சிறிய செல்வம் வளர்க்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் சிறிய செல்வம் வளர்க்கும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறம் சிறிய செல்வம் வளர்க்கும்
+...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS000398,Tamil,Inna Narpathu,"ஊர்ப்படை வரும் முன்னர் ஓடலும்
+ஆர்ப்படை வரும் போழ்து அழுவதும் இன்னா.","Fleeing before the town army comes, and weeping when the loud army comes—both are painful.","[Mock Translation (Tamil -> English)]: Translated version of 'ஊர்ப்படை வரும் முன்னர் ஓடலும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஊர்ப்படை வரும் முன்னர் ஓடலும்
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஊர்ப்படை வரும் முன்னர் ஓடலும்
+...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS000749,Tamil,Thirukkural,"வாய்மை சிறந்த நட்பு விளைக்கும்
+ஒழுக்கம் பெரிய வினை கெடுக்கும்.",Truth of the excellent who have friendship yields/produces; the noble/great conduct destroys/ruins action.,[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை சிறந்த நட்பு விளைக்கும்...',[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை சிறந்த நட்பு விளைக்கும்...',"[Mock Translation (Tamil -> English)]: Translated version of 'வாய்மை சிறந்த நட்பு விளைக்கும்...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.49,0.63,0.0,0.4,0.0,1.0,1.0,1.0
+IKS000441,Tamil,Thirukkural,"மேல்வரும் மேலோர் இடத்தில் இயல்பினால்
+தாழ்வரும் தாழ்வோர் சேர்க்கை.","When the elevated come in the place of the elevated by their nature, the association of the base leads to decline.",[Mock Translation (Tamil -> English)]: Translated version of 'மேல்வரும் மேலோர் இடத்தில் இயல்...',[Mock Translation (Tamil -> English)]: Translated version of 'மேல்வரும் மேலோர் இடத்தில் இயல்...',[Mock Translation (Tamil -> English)]: Translated version of 'மேல்வரும் மேலோர் இடத்தில் இயல்...',PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS003302,Tamil,Kalithogai,"தண் கடல் சேர்ப்பன் செல்வம் தர
+உடையார் நெஞ்சே தரும் மாலை
+வினை வரும் வழி.","As the lord of the cool shore gives prosperity, the possessing heart gives/bestows in the evening, waiting for action.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் செல்வம் தர
+...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001877,Tamil,Naladiyar,"பொருள் நில்லாத செய்யும்
+பொருள் காக்கும் தவம்.",Possessing transitory/impermanence wealth accomplishes/does; this protects/guards penance through wealth.,"[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் நில்லாத செய்யும்
+பொருள்...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் நில்லாத செய்யும்
+பொருள்...'","[Mock Translation (Tamil -> English)]: Translated version of 'பொருள் நில்லாத செய்யும்
+பொருள்...' (Contextual meaning: Affection, pure love, and emotional attachment.)",REVIEW,0.49,0.59,0.0,0.17,0.33,1.0,1.0,1.0
+IKS003148,Tamil,Pathitrupathu,"தண் கடல் சேர்ப்பன் மானம் தர
+தீய நெஞ்சே காக்கும் மாலை
+உள்ளம் வரும் வழி.","As the lord of the cool shore gives honour, the wicked/harmful heart protects/guards in the evening, waiting for mind.","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மானம் தர
+தீ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மானம் தர
+தீ...'","[Mock Translation (Tamil -> English)]: Translated version of 'தண் கடல் சேர்ப்பன் மானம் தர
+தீ...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001387,Tamil,Thirukkural,"ஒழுக்கம் உடையார் வினை தரும்
+அறிவு சிறந்த பொருள் தரும்.",Conduct of the possessing who have action gives/bestows; the excellent wisdom gives/bestows wealth.,"[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் உடையார் வினை தரும்
+அற...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் உடையார் வினை தரும்
+அற...'","[Mock Translation (Tamil -> English)]: Translated version of 'ஒழுக்கம் உடையார் வினை தரும்
+அற...' (Contextual meaning: Social righteousness, virtue, and ethical conduct in daily life.)",REVIEW,0.49,0.64,0.0,0.4,0.0,1.0,1.0,1.0
+IKS000859,Tamil,Thirukkural,"இளமை பெரிய இளமை ஒழிக்கும்
+மானம் இல்லார் கேள்வி காக்கும்.",Youth of the noble/great who have youth removes/dispels; the lacking honour protects/guards listening.,"[Mock Translation (Tamil -> English)]: Translated version of 'இளமை பெரிய இளமை ஒழிக்கும்
+மானம...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை பெரிய இளமை ஒழிக்கும்
+மானம...'","[Mock Translation (Tamil -> English)]: Translated version of 'இளமை பெரிய இளமை ஒழிக்கும்
+மானம...' (Contextual meaning: Ethical restraint, personal integrity, and moral discipline.)",REVIEW,0.55,0.64,0.0,0.5,0.67,0.5,1.0,1.0
+IKS000777,Tamil,Thirukkural,"அறிவு பெரிய உள்ளம் ஒழிக்கும்
+மானம் இனிய வாய்மை வளர்க்கும்.",Wisdom of the noble/great who have mind removes/dispels; the sweet/pleasant honour nurtures/grows truth.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு பெரிய உள்ளம் ஒழிக்கும்
+ம...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு பெரிய உள்ளம் ஒழிக்கும்
+ம...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு பெரிய உள்ளம் ஒழிக்கும்
+ம...'",PASS,0.88,0.5,0.9,1.0,1.0,1.0,1.0,1.0
+IKS001129,Tamil,Thirukkural,"அறிவு இல்லார் தவம் உய்க்கும்
+உள்ளம் தீய மன்னன் உய்க்கும்.",Wisdom of the lacking who have penance guides/elevates; the wicked/harmful mind guides/elevates king.,"[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு இல்லார் தவம் உய்க்கும்
+உ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு இல்லார் தவம் உய்க்கும்
+உ...'","[Mock Translation (Tamil -> English)]: Translated version of 'அறிவு இல்லார் தவம் உய்க்கும்
+உ...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0
+IKS003434,Tamil,Inna Narpathu,"அருள் சிறந்த நிற்கும்
+கல்வி உய்க்கும் நட்பு.",Possessing excellent grace stands/endures; this guides/elevates friendship through learning.,"[Mock Translation (Tamil -> English)]: Translated version of 'அருள் சிறந்த நிற்கும்
+கல்வி உய...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் சிறந்த நிற்கும்
+கல்வி உய...'","[Mock Translation (Tamil -> English)]: Translated version of 'அருள் சிறந்த நிற்கும்
+கல்வி உய...'",PASS,0.73,0.5,0.9,0.0,1.0,1.0,1.0,1.0

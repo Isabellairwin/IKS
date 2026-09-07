@@ -1,0 +1,8 @@
+Metric,Value,Description
+IKS Concept Preservation,2.3,Percentage of target IKS concepts preserved in the translated text (synonyms matching).
+Historical Context Preservation Accuracy,12.93,Percentage of historical periods correctly identified by the agent compared to metadata.
+Retrieved Context Relevance,67.74,Average relevance score (percentage overlap of content words) of retrieved MongoDB parallel context records.
+Unsupported Concept Rate,19.22,Percentage of detected concepts that are not supported by the reference set (false discovery rate).
+Concept Retrieval Precision,80.78,Precision of retrieved concepts compared to the reference set.
+Concept Retrieval Recall,20.69,Recall of retrieved concepts compared to the reference set.
+Concept Retrieval F1-score,22.9,F1-score (harmonic mean of precision and recall) of retrieved concepts compared to the reference set.
